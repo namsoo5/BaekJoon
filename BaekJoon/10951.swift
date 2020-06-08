@@ -23,6 +23,3 @@ func solution10951() {
         print(a+b)
     }
 }
-
-
-solution10951()
