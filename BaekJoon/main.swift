@@ -10,25 +10,12 @@ import Foundation
 
 let startTime = CFAbsoluteTimeGetCurrent()
 
-func solution2292() {
-    var origin = 1
-    let distance = 6
+func solution10250() {
     
-    let input = Int(readLine()!)!
-    
-    for i in 0... {
-        origin += distance * i
-        if origin >= input {
-            print("\(i+1)")
-            return
-        }
-    }
 }
 
-solution2292()
+solution10250()
 
 let endTime = CFAbsoluteTimeGetCurrent() - startTime
 print("\(endTime)s")
-
-
 
