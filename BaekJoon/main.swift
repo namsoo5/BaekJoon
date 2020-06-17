@@ -10,10 +10,12 @@ import Foundation
 
 let startTime = CFAbsoluteTimeGetCurrent()
 
-func solution2581() {
+
+func solution4948() {
     
 }
-solution2581()
+
+solution4948()
 
 let endTime = CFAbsoluteTimeGetCurrent() - startTime
 print("\(endTime)s")

@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		065F2FD02499D0F0003A0156 /* Extension+sosu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065F2FCF2499D0F0003A0156 /* Extension+sosu.swift */; };
+		065F2FD52499E2D6003A0156 /* 2581.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065F2FD42499E2D6003A0156 /* 2581.swift */; };
 		069E3CE12491FEAA00100D7C /* 2941.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069E3CE02491FEAA00100D7C /* 2941.swift */; };
 		069E3CE32493124100100D7C /* 2839.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069E3CE22493124100100D7C /* 2839.swift */; };
 		069E3D062494A20000100D7C /* 2292.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069E3D052494A20000100D7C /* 2292.swift */; };
@@ -33,6 +35,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		065F2FCF2499D0F0003A0156 /* Extension+sosu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension+sosu.swift"; sourceTree = "<group>"; };
+		065F2FD42499E2D6003A0156 /* 2581.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2581.swift; sourceTree = "<group>"; };
 		069E3CE02491FEAA00100D7C /* 2941.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2941.swift; sourceTree = "<group>"; };
 		069E3CE22493124100100D7C /* 2839.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2839.swift; sourceTree = "<group>"; };
 		069E3D052494A20000100D7C /* 2292.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2292.swift; sourceTree = "<group>"; };
@@ -58,6 +62,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		065F2FD12499D3D1003A0156 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				065F2FCF2499D0F0003A0156 /* Extension+sosu.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
 		06D3E6E3248DEF8E00360CCD = {
 			isa = PBXGroup;
 			children = (
@@ -78,6 +90,7 @@
 			isa = PBXGroup;
 			children = (
 				06D3E6EF248DEF8E00360CCD /* main.swift */,
+				065F2FD42499E2D6003A0156 /* 2581.swift */,
 				069E3D2224985AC200100D7C /* 1978.swift */,
 				069E3D0924973F2900100D7C /* 10250.swift */,
 				069E3D072495D98600100D7C /* 2869.swift */,
@@ -88,6 +101,7 @@
 				06D3E6FA248F23FF00360CCD /* 1065.swift */,
 				06D3E6F8248E3CFF00360CCD /* 4673.swift */,
 				06D3E6F6248DFE3C00360CCD /* 10951.swift */,
+				065F2FD12499D3D1003A0156 /* Extension */,
 			);
 			path = BaekJoon;
 			sourceTree = "<group>";
@@ -151,6 +165,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				069E3D0A24973F2900100D7C /* 10250.swift in Sources */,
+				065F2FD52499E2D6003A0156 /* 2581.swift in Sources */,
 				069E3CE32493124100100D7C /* 2839.swift in Sources */,
 				06D3E7072490748800360CCD /* 11720.swift in Sources */,
 				06D3E6F7248DFE3C00360CCD /* 10951.swift in Sources */,
@@ -159,6 +174,7 @@
 				069E3D062494A20000100D7C /* 2292.swift in Sources */,
 				06D3E6F9248E3CFF00360CCD /* 4673.swift in Sources */,
 				069E3D082495D98600100D7C /* 2869.swift in Sources */,
+				065F2FD02499D0F0003A0156 /* Extension+sosu.swift in Sources */,
 				06D3E6F0248DEF8E00360CCD /* main.swift in Sources */,
 				069E3CE12491FEAA00100D7C /* 2941.swift in Sources */,
 			);

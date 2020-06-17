@@ -35,4 +35,3 @@ func solution1978() {
     
     print(count)
 }
-solution1978()
