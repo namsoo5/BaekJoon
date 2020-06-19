@@ -11,12 +11,6 @@ import Foundation
 let startTime = CFAbsoluteTimeGetCurrent()
 
 
-//func solution4948() {
-//
-//}
-//
-//solution4948()
-
 
 
 let endTime = CFAbsoluteTimeGetCurrent() - startTime
