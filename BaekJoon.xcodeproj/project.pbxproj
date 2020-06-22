@@ -24,6 +24,7 @@
 		06D3E7072490748800360CCD /* 11720.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D3E7062490748800360CCD /* 11720.swift */; };
 		06FE86CC249CD25E00F770F4 /* 4948.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06FE86CB249CD25E00F770F4 /* 4948.swift */; };
 		06FE86EE249DADC600F770F4 /* ProgrammersHIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06FE86ED249DADC600F770F4 /* ProgrammersHIndex.swift */; };
+		06FE86F024A091D700F770F4 /* 9020.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06FE86EF24A091D700F770F4 /* 9020.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -57,6 +58,7 @@
 		06D3E7062490748800360CCD /* 11720.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11720.swift; sourceTree = "<group>"; };
 		06FE86CB249CD25E00F770F4 /* 4948.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 4948.swift; sourceTree = "<group>"; };
 		06FE86ED249DADC600F770F4 /* ProgrammersHIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgrammersHIndex.swift; sourceTree = "<group>"; };
+		06FE86EF24A091D700F770F4 /* 9020.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9020.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 			isa = PBXGroup;
 			children = (
 				06D3E6EF248DEF8E00360CCD /* main.swift */,
+				06FE86EF24A091D700F770F4 /* 9020.swift */,
 				065F2FD42499E2D6003A0156 /* 2581.swift */,
 				069E3D2224985AC200100D7C /* 1978.swift */,
 				069E3D0924973F2900100D7C /* 10250.swift */,
@@ -194,6 +197,7 @@
 				065F2FDA249B4F13003A0156 /* 1021.swift in Sources */,
 				069E3D062494A20000100D7C /* 2292.swift in Sources */,
 				06D3E6F9248E3CFF00360CCD /* 4673.swift in Sources */,
+				06FE86F024A091D700F770F4 /* 9020.swift in Sources */,
 				069E3D082495D98600100D7C /* 2869.swift in Sources */,
 				065F2FD02499D0F0003A0156 /* Extension+sosu.swift in Sources */,
 				06D3E6F0248DEF8E00360CCD /* main.swift in Sources */,
