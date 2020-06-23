@@ -13,6 +13,5 @@ let startTime = CFAbsoluteTimeGetCurrent()
 
 
 
-
 let endTime = CFAbsoluteTimeGetCurrent() - startTime
 print("\(endTime)s")
