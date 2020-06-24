@@ -8,7 +8,7 @@
 
 import Foundation
 // 프로그래머스 스택/큐 프린터문제
-func solutionPrinter(_ priorities:[Int], _ location:Int) -> Int {
+private func solutionPrinter(_ priorities:[Int], _ location:Int) -> Int {
     
     var queue = priorities
     var index = location

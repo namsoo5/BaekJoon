@@ -9,7 +9,7 @@
 import Foundation
 
 
-func solution10951() {
+private func solution10951() {
     while true {
         guard let input = readLine() else {
             return

@@ -9,7 +9,7 @@
 import Foundation
 // 크레인 인형뽑기
 
-func solution64061(_ board:[[Int]], _ moves:[Int]) -> Int {
+private func solution64061(_ board:[[Int]], _ moves:[Int]) -> Int {
     
     var outStack: [Int] = []
     var board = board

@@ -7,7 +7,7 @@
 //
 
 import Foundation
-func solution10250() {
+private func solution10250() {
     let t = Int(readLine()!)!
     for _ in 0..<t {
         let input = readLine()!.components(separatedBy: " ").map{Int($0)!}

@@ -8,7 +8,7 @@
 
 import Foundation
 
-func solution9020() {
+private func solution9020() {
     let limit = 10000
     let sosuList = searchSosu(max: limit)
     

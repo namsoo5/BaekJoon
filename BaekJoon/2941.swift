@@ -8,7 +8,7 @@
 
 import Foundation
 
-func solution2941() {
+private func solution2941() {
     guard let input = readLine() else {
         return
     }

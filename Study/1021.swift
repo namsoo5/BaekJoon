@@ -8,7 +8,7 @@
 
 import Foundation
 
-func solution1021() {
+private func solution1021() {
     let firstInput = readLine()!.components(separatedBy: " ").compactMap{ Int($0) }
     let n = firstInput[0], m = firstInput[1]
     var count = 0

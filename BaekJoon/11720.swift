@@ -8,7 +8,7 @@
 
 import Foundation
 
-func solution11720() {
+private func solution11720() {
     var _ = readLine()!
     let input = readLine()!
     

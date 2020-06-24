@@ -8,7 +8,7 @@
 
 import Foundation
 
-func solution2581() {
+private func solution2581() {
     var m = Int(readLine()!)!
     let n = Int(readLine()!)!
     

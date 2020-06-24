@@ -8,7 +8,7 @@
 
 import Foundation
 
-func solution4948() {
+private func solution4948() {
     let max = 123456 * 2
     let sosuList = searchSosu(max: max)
     var countArr: [Int] = []

@@ -7,7 +7,7 @@
 //
 
 import Foundation
-func solution2292() {
+private func solution2292() {
     var origin = 1
     let distance = 6
     

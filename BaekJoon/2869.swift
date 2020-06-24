@@ -8,7 +8,7 @@
 
 import Foundation
 
-func soultion2869() {
+private func soultion2869() {
     let input = readLine()!.components(separatedBy: " ")
     let up = Int(input[0])!
     let down = Int(input[1])!

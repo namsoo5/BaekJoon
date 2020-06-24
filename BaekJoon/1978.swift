@@ -8,7 +8,7 @@
 
 import Foundation
 
-func solution1978() {
+private func solution1978() {
     let MAX = 1001
     var sosuArr = Array(repeating: 0, count: MAX)
     let sosuRange = Int(sqrt(Double(MAX)))

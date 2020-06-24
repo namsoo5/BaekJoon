@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0654370824A2145900210383 /* P64061.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0654370724A2145900210383 /* P64061.swift */; };
+		0654370C24A315B900210383 /* 10872.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0654370B24A315B900210383 /* 10872.swift */; };
 		065F2FD02499D0F0003A0156 /* Extension+sosu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065F2FCF2499D0F0003A0156 /* Extension+sosu.swift */; };
 		065F2FD52499E2D6003A0156 /* 2581.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065F2FD42499E2D6003A0156 /* 2581.swift */; };
 		065F2FD8249A331C003A0156 /* ProgrammersPrinter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065F2FD7249A331C003A0156 /* ProgrammersPrinter.swift */; };
@@ -42,6 +43,7 @@
 
 /* Begin PBXFileReference section */
 		0654370724A2145900210383 /* P64061.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P64061.swift; sourceTree = "<group>"; };
+		0654370B24A315B900210383 /* 10872.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10872.swift; sourceTree = "<group>"; };
 		065F2FCF2499D0F0003A0156 /* Extension+sosu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension+sosu.swift"; sourceTree = "<group>"; };
 		065F2FD42499E2D6003A0156 /* 2581.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2581.swift; sourceTree = "<group>"; };
 		065F2FD7249A331C003A0156 /* ProgrammersPrinter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgrammersPrinter.swift; sourceTree = "<group>"; };
@@ -114,6 +116,7 @@
 			isa = PBXGroup;
 			children = (
 				06D3E6EF248DEF8E00360CCD /* main.swift */,
+				0654370B24A315B900210383 /* 10872.swift */,
 				06FE86EF24A091D700F770F4 /* 9020.swift */,
 				065F2FD42499E2D6003A0156 /* 2581.swift */,
 				069E3D2224985AC200100D7C /* 1978.swift */,
@@ -190,6 +193,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0654370C24A315B900210383 /* 10872.swift in Sources */,
 				069E3D0A24973F2900100D7C /* 10250.swift in Sources */,
 				065F2FD52499E2D6003A0156 /* 2581.swift in Sources */,
 				069E3CE32493124100100D7C /* 2839.swift in Sources */,

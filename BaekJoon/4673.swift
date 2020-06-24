@@ -8,7 +8,7 @@
 
 import Foundation
 
-func d4673(n: Int) -> Int {
+private func d4673(n: Int) -> Int {
     
     var temp = n
     var sum = n
@@ -23,7 +23,7 @@ func d4673(n: Int) -> Int {
     return sum
 }
 
-func solution4673() {
+private func solution4673() {
     let count = 100
     var list = Array(repeating: 0, count: 10001)
     

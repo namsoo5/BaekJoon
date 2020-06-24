@@ -8,7 +8,7 @@
 
 import Foundation
 
-func solution1065() {
+private func solution1065() {
     
     let n = readLine()!
     

@@ -9,7 +9,7 @@
 import Foundation
 
 //프로그래머스 H-Index
-func solutionHIndex(_ citations:[Int]) -> Int {
+private func solutionHIndex(_ citations:[Int]) -> Int {
     let arr = citations.sorted{ $0>$1 }
     var count = 0
     for (i, element) in arr.enumerated() {
