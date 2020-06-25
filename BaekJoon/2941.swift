@@ -37,7 +37,7 @@ private func solution2941() {
     print("\(endTime)s")
 }
 
-func solution2941_1() {
+private func solution2941_1() {
     guard let input = readLine() else {
         return
     }
