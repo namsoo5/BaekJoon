@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		063698DA24C84E6300C1C900 /* 6603.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063698D924C84E6300C1C900 /* 6603.swift */; };
+		063698DC24C87ED900C1C900 /* 2503.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063698DB24C87ED900C1C900 /* 2503.swift */; };
 		0654370824A2145900210383 /* P64061.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0654370724A2145900210383 /* P64061.swift */; };
 		0654370C24A315B900210383 /* 10872.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0654370B24A315B900210383 /* 10872.swift */; };
 		0654371E24A3748700210383 /* P43165.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0654371D24A3748700210383 /* P43165.swift */; };
@@ -48,6 +49,7 @@
 
 /* Begin PBXFileReference section */
 		063698D924C84E6300C1C900 /* 6603.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 6603.swift; sourceTree = "<group>"; };
+		063698DB24C87ED900C1C900 /* 2503.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2503.swift; sourceTree = "<group>"; };
 		0654370724A2145900210383 /* P64061.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P64061.swift; sourceTree = "<group>"; };
 		0654370B24A315B900210383 /* 10872.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10872.swift; sourceTree = "<group>"; };
 		0654371D24A3748700210383 /* P43165.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P43165.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				0654371F24A48AD500210383 /* P43162.swift */,
 				0654375224A5A33000210383 /* 2468.swift */,
 				063698D924C84E6300C1C900 /* 6603.swift */,
+				063698DB24C87ED900C1C900 /* 2503.swift */,
 			);
 			path = Study;
 			sourceTree = "<group>";
@@ -209,6 +212,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0654370C24A315B900210383 /* 10872.swift in Sources */,
+				063698DC24C87ED900C1C900 /* 2503.swift in Sources */,
 				069E3D0A24973F2900100D7C /* 10250.swift in Sources */,
 				0654372024A48AD500210383 /* P43162.swift in Sources */,
 				065F2FD52499E2D6003A0156 /* 2581.swift in Sources */,
