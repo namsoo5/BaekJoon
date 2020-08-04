@@ -32,4 +32,3 @@ private func solution11729() {
     hanoi(num: n, from: 1, by: 2, to: 3)
     
 }
-solution11729()

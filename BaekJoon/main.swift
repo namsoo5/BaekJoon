@@ -10,7 +10,6 @@ import Foundation
 
 let startTime = CFAbsoluteTimeGetCurrent()
 
-
 /*
 
 private func solution7569() -> Int {
