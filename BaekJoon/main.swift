@@ -8,7 +8,28 @@
 
 import Foundation
 
-let startTime = CFAbsoluteTimeGetCurrent()
+private func solution1436() {
+    
+}
+
+//124나라 숫자
+private func solutionP12899(n: Int) {
+    var n = n
+    var result = ""
+    while n > 0 {
+        let remain = n%3
+        n/=3
+        if remain == 0 {
+            n-=1
+            result = "4\(result)"
+        } else {
+            result = "\(remain)\(result)"
+        }
+        
+    }
+    print("result: \(result)")
+}
+solutionP12899(n: 15)
 
 /*
 
@@ -131,5 +152,5 @@ private func solution7569() -> Int {
 
 print(solution7569())
 */
-let endTime = CFAbsoluteTimeGetCurrent() - startTime
-print("\(endTime)s")
+//let endTime = CFAbsoluteTimeGetCurrent() - startTime
+//print("\(endTime)s")
