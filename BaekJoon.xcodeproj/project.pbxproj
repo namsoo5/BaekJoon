@@ -37,6 +37,7 @@
 		06A720C524D7A54F00ED31DC /* 7568.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06A720C424D7A54F00ED31DC /* 7568.swift */; };
 		06BCB6F824D949A9005D8B3D /* 1018.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06BCB6F724D949A9005D8B3D /* 1018.swift */; };
 		06BCB6FA24DAA83E005D8B3D /* P12899.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06BCB6F924DAA83E005D8B3D /* P12899.swift */; };
+		06BCB6FC24DBFF97005D8B3D /* 1436.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06BCB6FB24DBFF97005D8B3D /* 1436.swift */; };
 		06D3E6F0248DEF8E00360CCD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D3E6EF248DEF8E00360CCD /* main.swift */; };
 		06D3E6F7248DFE3C00360CCD /* 10951.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D3E6F6248DFE3C00360CCD /* 10951.swift */; };
 		06D3E6F9248E3CFF00360CCD /* 4673.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D3E6F8248E3CFF00360CCD /* 4673.swift */; };
@@ -90,6 +91,7 @@
 		06A720C424D7A54F00ED31DC /* 7568.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 7568.swift; sourceTree = "<group>"; };
 		06BCB6F724D949A9005D8B3D /* 1018.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1018.swift; sourceTree = "<group>"; };
 		06BCB6F924DAA83E005D8B3D /* P12899.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P12899.swift; sourceTree = "<group>"; };
+		06BCB6FB24DBFF97005D8B3D /* 1436.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1436.swift; sourceTree = "<group>"; };
 		06D3E6EC248DEF8E00360CCD /* BaekJoon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BaekJoon; sourceTree = BUILT_PRODUCTS_DIR; };
 		06D3E6EF248DEF8E00360CCD /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		06D3E6F6248DFE3C00360CCD /* 10951.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10951.swift; sourceTree = "<group>"; };
@@ -192,6 +194,7 @@
 				06A720C424D7A54F00ED31DC /* 7568.swift */,
 				06BCB6F724D949A9005D8B3D /* 1018.swift */,
 				06BCB6F924DAA83E005D8B3D /* P12899.swift */,
+				06BCB6FB24DBFF97005D8B3D /* 1436.swift */,
 				065F2FD12499D3D1003A0156 /* Extension */,
 			);
 			path = BaekJoon;
@@ -269,6 +272,7 @@
 				06831ACF24ACB1070067EAE6 /* 10870.swift in Sources */,
 				06A720C524D7A54F00ED31DC /* 7568.swift in Sources */,
 				06D3E7072490748800360CCD /* 11720.swift in Sources */,
+				06BCB6FC24DBFF97005D8B3D /* 1436.swift in Sources */,
 				06A720B824D1B96200ED31DC /* 9095.swift in Sources */,
 				06D3E6F7248DFE3C00360CCD /* 10951.swift in Sources */,
 				06A720BA24D2581E00ED31DC /* P42895.swift in Sources */,
