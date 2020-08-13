@@ -8,8 +8,6 @@
 
 import Foundation
 
-
-
 /*
 private func solution7569() -> Int {
     let input = readLine()!.components(separatedBy: " ").map{Int($0)!}
