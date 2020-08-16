@@ -44,9 +44,11 @@ private func solutionP42860(_ name:String) -> Int {
             }
         }
     }
+    // 도중 백해서 반대로 가는경우
     let backMove = name.count - maxIndex + maxIndex * 2 - maxAcount
     var leftMove = 0
     var aCount = 0
+    // 정방향으로가는경우
     for element in name {
         if element == "A" {
             aCount += 1
@@ -58,6 +60,7 @@ private func solutionP42860(_ name:String) -> Int {
     }
     var rightMove = 0
     aCount = 0
+    // 반대로가는경우
     for (i,element) in name.enumerated().reversed() {
         if i == 0 {
             break
@@ -77,8 +80,4 @@ private func solutionP42860(_ name:String) -> Int {
     print(count)
     return count
 }
-solutionP42860("ABAABB")
-solutionP42860("JEROEN")
-solutionP42860("JAN")
-
 //solutionP42860("AAAA")
