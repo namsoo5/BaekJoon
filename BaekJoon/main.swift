@@ -8,10 +8,6 @@
 
 import Foundation
 
-private func solution15652() {
-    
-}
-solution15652()
 
 /*
 private func solution7569() -> Int {
