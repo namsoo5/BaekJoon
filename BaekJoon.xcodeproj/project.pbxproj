@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		060D5D9A24EBC6D3002273DD /* P42842.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060D5D9924EBC6D3002273DD /* P42842.swift */; };
 		060D5D9C24F0F21E002273DD /* P42883.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060D5D9B24F0F21E002273DD /* P42883.swift */; };
+		060D5DBE24F22CA6002273DD /* socarCodeTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060D5DBD24F22CA6002273DD /* socarCodeTest.swift */; };
 		063698DA24C84E6300C1C900 /* 6603.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063698D924C84E6300C1C900 /* 6603.swift */; };
 		063698DC24C87ED900C1C900 /* 2503.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063698DB24C87ED900C1C900 /* 2503.swift */; };
 		0654370824A2145900210383 /* P64061.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0654370724A2145900210383 /* P64061.swift */; };
@@ -70,6 +71,7 @@
 /* Begin PBXFileReference section */
 		060D5D9924EBC6D3002273DD /* P42842.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P42842.swift; sourceTree = "<group>"; };
 		060D5D9B24F0F21E002273DD /* P42883.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P42883.swift; sourceTree = "<group>"; };
+		060D5DBD24F22CA6002273DD /* socarCodeTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = socarCodeTest.swift; sourceTree = "<group>"; };
 		063698D924C84E6300C1C900 /* 6603.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 6603.swift; sourceTree = "<group>"; };
 		063698DB24C87ED900C1C900 /* 2503.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2503.swift; sourceTree = "<group>"; };
 		0654370724A2145900210383 /* P64061.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P64061.swift; sourceTree = "<group>"; };
@@ -162,6 +164,7 @@
 			children = (
 				06A720BB24D2606D00ED31DC /* tossTestCode.swift */,
 				06A720BF24D5431700ED31DC /* tossCodeTest.swift */,
+				060D5DBD24F22CA6002273DD /* socarCodeTest.swift */,
 			);
 			path = CodingTest;
 			sourceTree = "<group>";
@@ -300,6 +303,7 @@
 				06A720BA24D2581E00ED31DC /* P42895.swift in Sources */,
 				06D3E6FB248F23FF00360CCD /* 1065.swift in Sources */,
 				06BCB70724E91FFF005D8B3D /* P42860.swift in Sources */,
+				060D5DBE24F22CA6002273DD /* socarCodeTest.swift in Sources */,
 				069E3D2324985AC200100D7C /* 1978.swift in Sources */,
 				06A720C324D722AE00ED31DC /* 2447.swift in Sources */,
 				065F2FDA249B4F13003A0156 /* 1021.swift in Sources */,
