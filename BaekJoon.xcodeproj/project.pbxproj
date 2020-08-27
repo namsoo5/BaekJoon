@@ -10,6 +10,8 @@
 		060D5D9A24EBC6D3002273DD /* P42842.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060D5D9924EBC6D3002273DD /* P42842.swift */; };
 		060D5D9C24F0F21E002273DD /* P42883.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060D5D9B24F0F21E002273DD /* P42883.swift */; };
 		060D5DBE24F22CA6002273DD /* socarCodeTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060D5DBD24F22CA6002273DD /* socarCodeTest.swift */; };
+		060D5DC024F57276002273DD /* 9663.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060D5DBF24F57276002273DD /* 9663.swift */; };
+		060D5DE624F6B8C4002273DD /* P42746.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060D5DE524F6B8C4002273DD /* P42746.swift */; };
 		063698DA24C84E6300C1C900 /* 6603.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063698D924C84E6300C1C900 /* 6603.swift */; };
 		063698DC24C87ED900C1C900 /* 2503.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063698DB24C87ED900C1C900 /* 2503.swift */; };
 		0654370824A2145900210383 /* P64061.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0654370724A2145900210383 /* P64061.swift */; };
@@ -72,6 +74,8 @@
 		060D5D9924EBC6D3002273DD /* P42842.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P42842.swift; sourceTree = "<group>"; };
 		060D5D9B24F0F21E002273DD /* P42883.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P42883.swift; sourceTree = "<group>"; };
 		060D5DBD24F22CA6002273DD /* socarCodeTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = socarCodeTest.swift; sourceTree = "<group>"; };
+		060D5DBF24F57276002273DD /* 9663.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9663.swift; sourceTree = "<group>"; };
+		060D5DE524F6B8C4002273DD /* P42746.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P42746.swift; sourceTree = "<group>"; };
 		063698D924C84E6300C1C900 /* 6603.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 6603.swift; sourceTree = "<group>"; };
 		063698DB24C87ED900C1C900 /* 2503.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2503.swift; sourceTree = "<group>"; };
 		0654370724A2145900210383 /* P64061.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P64061.swift; sourceTree = "<group>"; };
@@ -190,6 +194,7 @@
 		06D3E6EE248DEF8E00360CCD /* BaekJoon */ = {
 			isa = PBXGroup;
 			children = (
+				065F2FD12499D3D1003A0156 /* Extension */,
 				06D3E6EF248DEF8E00360CCD /* main.swift */,
 				06A720BD24D4049100ED31DC /* 11729.swift */,
 				06831ACE24ACB1070067EAE6 /* 10870.swift */,
@@ -218,8 +223,9 @@
 				06BCB70624E91FFF005D8B3D /* P42860.swift */,
 				06BCB70824EAC217005D8B3D /* 15652.swift */,
 				060D5D9B24F0F21E002273DD /* P42883.swift */,
-				065F2FD12499D3D1003A0156 /* Extension */,
+				060D5DBF24F57276002273DD /* 9663.swift */,
 				060D5D9924EBC6D3002273DD /* P42842.swift */,
+				060D5DE524F6B8C4002273DD /* P42746.swift */,
 			);
 			path = BaekJoon;
 			sourceTree = "<group>";
@@ -311,10 +317,12 @@
 				069E3D062494A20000100D7C /* 2292.swift in Sources */,
 				06BCB70924EAC217005D8B3D /* 15652.swift in Sources */,
 				06A720BC24D2606D00ED31DC /* tossTestCode.swift in Sources */,
+				060D5DC024F57276002273DD /* 9663.swift in Sources */,
 				06D3E6F9248E3CFF00360CCD /* 4673.swift in Sources */,
 				06FE86F024A091D700F770F4 /* 9020.swift in Sources */,
 				069E3D082495D98600100D7C /* 2869.swift in Sources */,
 				0654370824A2145900210383 /* P64061.swift in Sources */,
+				060D5DE624F6B8C4002273DD /* P42746.swift in Sources */,
 				06BCB6FA24DAA83E005D8B3D /* P12899.swift in Sources */,
 				065F2FD02499D0F0003A0156 /* Extension+sosu.swift in Sources */,
 				063698DA24C84E6300C1C900 /* 6603.swift in Sources */,
