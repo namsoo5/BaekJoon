@@ -45,6 +45,7 @@
 		06A720C024D5431700ED31DC /* tossCodeTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06A720BF24D5431700ED31DC /* tossCodeTest.swift */; };
 		06A720C324D722AE00ED31DC /* 2447.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06A720C224D722AE00ED31DC /* 2447.swift */; };
 		06A720C524D7A54F00ED31DC /* 7568.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06A720C424D7A54F00ED31DC /* 7568.swift */; };
+		06ACFE6125021C4A00F2B74C /* P12905.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06ACFE6025021C4A00F2B74C /* P12905.swift */; };
 		06BCB6F824D949A9005D8B3D /* 1018.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06BCB6F724D949A9005D8B3D /* 1018.swift */; };
 		06BCB6FA24DAA83E005D8B3D /* P12899.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06BCB6F924DAA83E005D8B3D /* P12899.swift */; };
 		06BCB6FC24DBFF97005D8B3D /* 1436.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06BCB6FB24DBFF97005D8B3D /* 1436.swift */; };
@@ -114,6 +115,7 @@
 		06A720BF24D5431700ED31DC /* tossCodeTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tossCodeTest.swift; sourceTree = "<group>"; };
 		06A720C224D722AE00ED31DC /* 2447.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2447.swift; sourceTree = "<group>"; };
 		06A720C424D7A54F00ED31DC /* 7568.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 7568.swift; sourceTree = "<group>"; };
+		06ACFE6025021C4A00F2B74C /* P12905.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P12905.swift; sourceTree = "<group>"; };
 		06BCB6F724D949A9005D8B3D /* 1018.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1018.swift; sourceTree = "<group>"; };
 		06BCB6F924DAA83E005D8B3D /* P12899.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P12899.swift; sourceTree = "<group>"; };
 		06BCB6FB24DBFF97005D8B3D /* 1436.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1436.swift; sourceTree = "<group>"; };
@@ -241,6 +243,7 @@
 				060D5DEB24FAB4FF002273DD /* P62048.swift */,
 				060D5DED24FE2C15002273DD /* P60057.swift */,
 				0686516F24FF9A39008F0EB9 /* P60058.swift */,
+				06ACFE6025021C4A00F2B74C /* P12905.swift */,
 			);
 			path = BaekJoon;
 			sourceTree = "<group>";
@@ -327,6 +330,7 @@
 				06A720BA24D2581E00ED31DC /* P42895.swift in Sources */,
 				06D3E6FB248F23FF00360CCD /* 1065.swift in Sources */,
 				06BCB70724E91FFF005D8B3D /* P42860.swift in Sources */,
+				06ACFE6125021C4A00F2B74C /* P12905.swift in Sources */,
 				060D5DBE24F22CA6002273DD /* socarCodeTest.swift in Sources */,
 				069E3D2324985AC200100D7C /* 1978.swift in Sources */,
 				06A720C324D722AE00ED31DC /* 2447.swift in Sources */,
