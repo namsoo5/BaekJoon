@@ -46,6 +46,9 @@
 		06A720C324D722AE00ED31DC /* 2447.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06A720C224D722AE00ED31DC /* 2447.swift */; };
 		06A720C524D7A54F00ED31DC /* 7568.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06A720C424D7A54F00ED31DC /* 7568.swift */; };
 		06ACFE6125021C4A00F2B74C /* P12905.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06ACFE6025021C4A00F2B74C /* P12905.swift */; };
+		06ACFE63250607D200F2B74C /* P64065.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06ACFE62250607D200F2B74C /* P64065.swift */; };
+		06ACFE652507773700F2B74C /* P12909.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06ACFE642507773700F2B74C /* P12909.swift */; };
+		06ACFE672508769200F2B74C /* P12913.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06ACFE662508769200F2B74C /* P12913.swift */; };
 		06BCB6F824D949A9005D8B3D /* 1018.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06BCB6F724D949A9005D8B3D /* 1018.swift */; };
 		06BCB6FA24DAA83E005D8B3D /* P12899.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06BCB6F924DAA83E005D8B3D /* P12899.swift */; };
 		06BCB6FC24DBFF97005D8B3D /* 1436.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06BCB6FB24DBFF97005D8B3D /* 1436.swift */; };
@@ -116,6 +119,9 @@
 		06A720C224D722AE00ED31DC /* 2447.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2447.swift; sourceTree = "<group>"; };
 		06A720C424D7A54F00ED31DC /* 7568.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 7568.swift; sourceTree = "<group>"; };
 		06ACFE6025021C4A00F2B74C /* P12905.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P12905.swift; sourceTree = "<group>"; };
+		06ACFE62250607D200F2B74C /* P64065.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P64065.swift; sourceTree = "<group>"; };
+		06ACFE642507773700F2B74C /* P12909.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P12909.swift; sourceTree = "<group>"; };
+		06ACFE662508769200F2B74C /* P12913.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P12913.swift; sourceTree = "<group>"; };
 		06BCB6F724D949A9005D8B3D /* 1018.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1018.swift; sourceTree = "<group>"; };
 		06BCB6F924DAA83E005D8B3D /* P12899.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P12899.swift; sourceTree = "<group>"; };
 		06BCB6FB24DBFF97005D8B3D /* 1436.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1436.swift; sourceTree = "<group>"; };
@@ -186,6 +192,62 @@
 			path = CodingTest;
 			sourceTree = "<group>";
 		};
+		06ACFE68250876B400F2B74C /* 8월 */ = {
+			isa = PBXGroup;
+			children = (
+				06A720C224D722AE00ED31DC /* 2447.swift */,
+				06A720C424D7A54F00ED31DC /* 7568.swift */,
+				06BCB6F724D949A9005D8B3D /* 1018.swift */,
+				06BCB6F924DAA83E005D8B3D /* P12899.swift */,
+				06BCB6FB24DBFF97005D8B3D /* 1436.swift */,
+				06BCB6FD24E2D0E4005D8B3D /* 15649.swift */,
+				06BCB6FF24E59EFD005D8B3D /* 15650.swift */,
+				06BCB70124E66848005D8B3D /* 15651.swift */,
+				06BCB70624E91FFF005D8B3D /* P42860.swift */,
+				06BCB70824EAC217005D8B3D /* 15652.swift */,
+				060D5D9B24F0F21E002273DD /* P42883.swift */,
+				060D5DBF24F57276002273DD /* 9663.swift */,
+				060D5D9924EBC6D3002273DD /* P42842.swift */,
+				060D5DE524F6B8C4002273DD /* P42746.swift */,
+				060D5DE724F81646002273DD /* P42578.swift */,
+				060D5DEB24FAB4FF002273DD /* P62048.swift */,
+			);
+			name = "8월";
+			path = "8월";
+			sourceTree = "<group>";
+		};
+		06ACFE6A250876DF00F2B74C /* 6월 */ = {
+			isa = PBXGroup;
+			children = (
+				0654370B24A315B900210383 /* 10872.swift */,
+				06FE86EF24A091D700F770F4 /* 9020.swift */,
+				065F2FD42499E2D6003A0156 /* 2581.swift */,
+				069E3D2224985AC200100D7C /* 1978.swift */,
+				069E3D0924973F2900100D7C /* 10250.swift */,
+				069E3D072495D98600100D7C /* 2869.swift */,
+				069E3D052494A20000100D7C /* 2292.swift */,
+				069E3CE22493124100100D7C /* 2839.swift */,
+				069E3CE02491FEAA00100D7C /* 2941.swift */,
+				06D3E7062490748800360CCD /* 11720.swift */,
+				06D3E6FA248F23FF00360CCD /* 1065.swift */,
+				06D3E6F8248E3CFF00360CCD /* 4673.swift */,
+				06D3E6F6248DFE3C00360CCD /* 10951.swift */,
+				06FE86CB249CD25E00F770F4 /* 4948.swift */,
+			);
+			name = "6월";
+			path = "6월";
+			sourceTree = "<group>";
+		};
+		06ACFE6B2508771200F2B74C /* 7월 */ = {
+			isa = PBXGroup;
+			children = (
+				06A720BD24D4049100ED31DC /* 11729.swift */,
+				06831ACE24ACB1070067EAE6 /* 10870.swift */,
+			);
+			name = "7월";
+			path = "7월";
+			sourceTree = "<group>";
+		};
 		06D3E6E3248DEF8E00360CCD = {
 			isa = PBXGroup;
 			children = (
@@ -209,41 +271,15 @@
 			children = (
 				065F2FD12499D3D1003A0156 /* Extension */,
 				06D3E6EF248DEF8E00360CCD /* main.swift */,
-				06A720BD24D4049100ED31DC /* 11729.swift */,
-				06831ACE24ACB1070067EAE6 /* 10870.swift */,
-				0654370B24A315B900210383 /* 10872.swift */,
-				06FE86EF24A091D700F770F4 /* 9020.swift */,
-				065F2FD42499E2D6003A0156 /* 2581.swift */,
-				069E3D2224985AC200100D7C /* 1978.swift */,
-				069E3D0924973F2900100D7C /* 10250.swift */,
-				069E3D072495D98600100D7C /* 2869.swift */,
-				069E3D052494A20000100D7C /* 2292.swift */,
-				069E3CE22493124100100D7C /* 2839.swift */,
-				069E3CE02491FEAA00100D7C /* 2941.swift */,
-				06D3E7062490748800360CCD /* 11720.swift */,
-				06D3E6FA248F23FF00360CCD /* 1065.swift */,
-				06D3E6F8248E3CFF00360CCD /* 4673.swift */,
-				06D3E6F6248DFE3C00360CCD /* 10951.swift */,
-				06FE86CB249CD25E00F770F4 /* 4948.swift */,
-				06A720C224D722AE00ED31DC /* 2447.swift */,
-				06A720C424D7A54F00ED31DC /* 7568.swift */,
-				06BCB6F724D949A9005D8B3D /* 1018.swift */,
-				06BCB6F924DAA83E005D8B3D /* P12899.swift */,
-				06BCB6FB24DBFF97005D8B3D /* 1436.swift */,
-				06BCB6FD24E2D0E4005D8B3D /* 15649.swift */,
-				06BCB6FF24E59EFD005D8B3D /* 15650.swift */,
-				06BCB70124E66848005D8B3D /* 15651.swift */,
-				06BCB70624E91FFF005D8B3D /* P42860.swift */,
-				06BCB70824EAC217005D8B3D /* 15652.swift */,
-				060D5D9B24F0F21E002273DD /* P42883.swift */,
-				060D5DBF24F57276002273DD /* 9663.swift */,
-				060D5D9924EBC6D3002273DD /* P42842.swift */,
-				060D5DE524F6B8C4002273DD /* P42746.swift */,
-				060D5DE724F81646002273DD /* P42578.swift */,
-				060D5DEB24FAB4FF002273DD /* P62048.swift */,
+				06ACFE6A250876DF00F2B74C /* 6월 */,
+				06ACFE6B2508771200F2B74C /* 7월 */,
+				06ACFE68250876B400F2B74C /* 8월 */,
 				060D5DED24FE2C15002273DD /* P60057.swift */,
 				0686516F24FF9A39008F0EB9 /* P60058.swift */,
 				06ACFE6025021C4A00F2B74C /* P12905.swift */,
+				06ACFE62250607D200F2B74C /* P64065.swift */,
+				06ACFE642507773700F2B74C /* P12909.swift */,
+				06ACFE662508769200F2B74C /* P12913.swift */,
 			);
 			path = BaekJoon;
 			sourceTree = "<group>";
@@ -318,6 +354,7 @@
 				06A720BE24D4049100ED31DC /* 11729.swift in Sources */,
 				069E3CE32493124100100D7C /* 2839.swift in Sources */,
 				0654371E24A3748700210383 /* P43165.swift in Sources */,
+				06ACFE63250607D200F2B74C /* P64065.swift in Sources */,
 				060D5DE824F81646002273DD /* P42578.swift in Sources */,
 				06831ACF24ACB1070067EAE6 /* 10870.swift in Sources */,
 				06A720C524D7A54F00ED31DC /* 7568.swift in Sources */,
@@ -336,9 +373,11 @@
 				06A720C324D722AE00ED31DC /* 2447.swift in Sources */,
 				065F2FDA249B4F13003A0156 /* 1021.swift in Sources */,
 				0686517024FF9A39008F0EB9 /* P60058.swift in Sources */,
+				06ACFE672508769200F2B74C /* P12913.swift in Sources */,
 				060D5D9C24F0F21E002273DD /* P42883.swift in Sources */,
 				069E3D062494A20000100D7C /* 2292.swift in Sources */,
 				060D5DEA24FAB23E002273DD /* Extension+GCD.swift in Sources */,
+				06ACFE652507773700F2B74C /* P12909.swift in Sources */,
 				06BCB70924EAC217005D8B3D /* 15652.swift in Sources */,
 				06A720BC24D2606D00ED31DC /* tossTestCode.swift in Sources */,
 				060D5DC024F57276002273DD /* 9663.swift in Sources */,
