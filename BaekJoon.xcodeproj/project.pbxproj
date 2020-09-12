@@ -27,6 +27,9 @@
 		065F2FD52499E2D6003A0156 /* 2581.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065F2FD42499E2D6003A0156 /* 2581.swift */; };
 		065F2FD8249A331C003A0156 /* ProgrammersPrinter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065F2FD7249A331C003A0156 /* ProgrammersPrinter.swift */; };
 		065F2FDA249B4F13003A0156 /* 1021.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065F2FD9249B4F13003A0156 /* 1021.swift */; };
+		0660F38C250B95800059824A /* P12939.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0660F38B250B95800059824A /* P12939.swift */; };
+		0660F3BE250BBF140059824A /* P67257.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0660F3BD250BBF140059824A /* P67257.swift */; };
+		0660F3C0250C93850059824A /* kakao2020하반기공채.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0660F3BF250C93850059824A /* kakao2020하반기공채.swift */; };
 		06831ACF24ACB1070067EAE6 /* 10870.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06831ACE24ACB1070067EAE6 /* 10870.swift */; };
 		0686517024FF9A39008F0EB9 /* P60058.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0686516F24FF9A39008F0EB9 /* P60058.swift */; };
 		069E3CE12491FEAA00100D7C /* 2941.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069E3CE02491FEAA00100D7C /* 2941.swift */; };
@@ -100,6 +103,9 @@
 		065F2FD42499E2D6003A0156 /* 2581.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2581.swift; sourceTree = "<group>"; };
 		065F2FD7249A331C003A0156 /* ProgrammersPrinter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgrammersPrinter.swift; sourceTree = "<group>"; };
 		065F2FD9249B4F13003A0156 /* 1021.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1021.swift; sourceTree = "<group>"; };
+		0660F38B250B95800059824A /* P12939.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P12939.swift; sourceTree = "<group>"; };
+		0660F3BD250BBF140059824A /* P67257.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P67257.swift; sourceTree = "<group>"; };
+		0660F3BF250C93850059824A /* kakao2020하반기공채.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "kakao2020하반기공채.swift"; sourceTree = "<group>"; };
 		06831ACE24ACB1070067EAE6 /* 10870.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10870.swift; sourceTree = "<group>"; };
 		0686516F24FF9A39008F0EB9 /* P60058.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P60058.swift; sourceTree = "<group>"; };
 		069E3CE02491FEAA00100D7C /* 2941.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2941.swift; sourceTree = "<group>"; };
@@ -188,6 +194,7 @@
 				06A720BB24D2606D00ED31DC /* tossTestCode.swift */,
 				06A720BF24D5431700ED31DC /* tossCodeTest.swift */,
 				060D5DBD24F22CA6002273DD /* socarCodeTest.swift */,
+				0660F3BF250C93850059824A /* kakao2020하반기공채.swift */,
 			);
 			path = CodingTest;
 			sourceTree = "<group>";
@@ -280,6 +287,8 @@
 				06ACFE62250607D200F2B74C /* P64065.swift */,
 				06ACFE642507773700F2B74C /* P12909.swift */,
 				06ACFE662508769200F2B74C /* P12913.swift */,
+				0660F38B250B95800059824A /* P12939.swift */,
+				0660F3BD250BBF140059824A /* P67257.swift */,
 			);
 			path = BaekJoon;
 			sourceTree = "<group>";
@@ -368,6 +377,7 @@
 				06D3E6FB248F23FF00360CCD /* 1065.swift in Sources */,
 				06BCB70724E91FFF005D8B3D /* P42860.swift in Sources */,
 				06ACFE6125021C4A00F2B74C /* P12905.swift in Sources */,
+				0660F3BE250BBF140059824A /* P67257.swift in Sources */,
 				060D5DBE24F22CA6002273DD /* socarCodeTest.swift in Sources */,
 				069E3D2324985AC200100D7C /* 1978.swift in Sources */,
 				06A720C324D722AE00ED31DC /* 2447.swift in Sources */,
@@ -383,6 +393,7 @@
 				060D5DC024F57276002273DD /* 9663.swift in Sources */,
 				06D3E6F9248E3CFF00360CCD /* 4673.swift in Sources */,
 				06FE86F024A091D700F770F4 /* 9020.swift in Sources */,
+				0660F3C0250C93850059824A /* kakao2020하반기공채.swift in Sources */,
 				069E3D082495D98600100D7C /* 2869.swift in Sources */,
 				0654370824A2145900210383 /* P64061.swift in Sources */,
 				060D5DE624F6B8C4002273DD /* P42746.swift in Sources */,
@@ -400,6 +411,7 @@
 				06FE86CC249CD25E00F770F4 /* 4948.swift in Sources */,
 				06BCB70024E59EFD005D8B3D /* 15650.swift in Sources */,
 				069E3CE12491FEAA00100D7C /* 2941.swift in Sources */,
+				0660F38C250B95800059824A /* P12939.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
