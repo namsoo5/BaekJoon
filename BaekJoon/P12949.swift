@@ -8,6 +8,7 @@
 
 import Foundation
 
+//행렬의 곱셈
 private func solutionP12949(_ arr1:[[Int]], _ arr2:[[Int]]) -> [[Int]] {
     let tempResult = [Int](repeating: 0, count: arr1.count)
     var result = tempResult.map{[Int](repeating: $0, count: arr2[0].count)}
