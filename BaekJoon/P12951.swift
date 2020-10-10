@@ -10,6 +10,7 @@ import Foundation
 
 // 띄어쓰기가 연속으로 있는경우 생각하지못함
 
+
 // JadenCase 문자열 만들기
 private func solutionP12951(_ s:String) -> String {
     let tempString = s.lowercased()
