@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		06004AC2254D2AE400D28B71 /* 2020프로그래머스윈터코딩.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06004AC1254D2AE400D28B71 /* 2020프로그래머스윈터코딩.swift */; };
 		060D5D9A24EBC6D3002273DD /* P42842.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060D5D9924EBC6D3002273DD /* P42842.swift */; };
 		060D5D9C24F0F21E002273DD /* P42883.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060D5D9B24F0F21E002273DD /* P42883.swift */; };
 		060D5DBE24F22CA6002273DD /* socarCodeTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060D5DBD24F22CA6002273DD /* socarCodeTest.swift */; };
@@ -82,6 +83,7 @@
 		06BCB70224E66848005D8B3D /* 15651.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06BCB70124E66848005D8B3D /* 15651.swift */; };
 		06BCB70724E91FFF005D8B3D /* P42860.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06BCB70624E91FFF005D8B3D /* P42860.swift */; };
 		06BCB70924EAC217005D8B3D /* 15652.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06BCB70824EAC217005D8B3D /* 15652.swift */; };
+		06BDE1A0254BEE3D00D732AF /* Extension+String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06BDE19F254BEE3D00D732AF /* Extension+String.swift */; };
 		06D3E6F0248DEF8E00360CCD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D3E6EF248DEF8E00360CCD /* main.swift */; };
 		06D3E6F7248DFE3C00360CCD /* 10951.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D3E6F6248DFE3C00360CCD /* 10951.swift */; };
 		06D3E6F9248E3CFF00360CCD /* 4673.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D3E6F8248E3CFF00360CCD /* 4673.swift */; };
@@ -107,6 +109,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		06004AC1254D2AE400D28B71 /* 2020프로그래머스윈터코딩.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2020프로그래머스윈터코딩.swift"; sourceTree = "<group>"; };
 		060D5D9924EBC6D3002273DD /* P42842.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P42842.swift; sourceTree = "<group>"; };
 		060D5D9B24F0F21E002273DD /* P42883.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P42883.swift; sourceTree = "<group>"; };
 		060D5DBD24F22CA6002273DD /* socarCodeTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = socarCodeTest.swift; sourceTree = "<group>"; };
@@ -182,6 +185,7 @@
 		06BCB70124E66848005D8B3D /* 15651.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 15651.swift; sourceTree = "<group>"; };
 		06BCB70624E91FFF005D8B3D /* P42860.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P42860.swift; sourceTree = "<group>"; };
 		06BCB70824EAC217005D8B3D /* 15652.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 15652.swift; sourceTree = "<group>"; };
+		06BDE19F254BEE3D00D732AF /* Extension+String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension+String.swift"; sourceTree = "<group>"; };
 		06D3E6EC248DEF8E00360CCD /* BaekJoon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BaekJoon; sourceTree = BUILT_PRODUCTS_DIR; };
 		06D3E6EF248DEF8E00360CCD /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		06D3E6F6248DFE3C00360CCD /* 10951.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10951.swift; sourceTree = "<group>"; };
@@ -214,6 +218,7 @@
 				0660F3C1250D04CD0059824A /* Extension+Array.swift */,
 				0660F3C7250DE0990059824A /* Heap.swift */,
 				06E5110C2517516700B53299 /* Trie.swift */,
+				06BDE19F254BEE3D00D732AF /* Extension+String.swift */,
 			);
 			path = Extension;
 			sourceTree = "<group>";
@@ -250,6 +255,7 @@
 				06334CDD251ECFB0000DD4D7 /* 네이버2020하반기 공채코테.swift */,
 				068131D9253074390081A99F /* Coupang2020하반기.swift */,
 				0615687F253EB3A300A9CBD4 /* 카카오엔터프라이즈코테.swift */,
+				06004AC1254D2AE400D28B71 /* 2020프로그래머스윈터코딩.swift */,
 			);
 			path = CodingTest;
 			sourceTree = "<group>";
@@ -436,6 +442,7 @@
 				06375F0B2547E8F900072626 /* P17680.swift in Sources */,
 				0654370C24A315B900210383 /* 10872.swift in Sources */,
 				06A2B10A2536ED720013BCAD /* P12973.swift in Sources */,
+				06004AC2254D2AE400D28B71 /* 2020프로그래머스윈터코딩.swift in Sources */,
 				063698DC24C87ED900C1C900 /* 2503.swift in Sources */,
 				06156880253EB3A300A9CBD4 /* 카카오엔터프라이즈코테.swift in Sources */,
 				069E3D0A24973F2900100D7C /* 10250.swift in Sources */,
@@ -470,6 +477,7 @@
 				0660F3C2250D04CD0059824A /* Extension+Array.swift in Sources */,
 				06ACFE6125021C4A00F2B74C /* P12905.swift in Sources */,
 				0660F3BE250BBF140059824A /* P67257.swift in Sources */,
+				06BDE1A0254BEE3D00D732AF /* Extension+String.swift in Sources */,
 				060D5DBE24F22CA6002273DD /* socarCodeTest.swift in Sources */,
 				069E3D2324985AC200100D7C /* 1978.swift in Sources */,
 				06A720C324D722AE00ED31DC /* 2447.swift in Sources */,
