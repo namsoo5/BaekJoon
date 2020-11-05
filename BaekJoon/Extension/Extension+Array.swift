@@ -50,3 +50,40 @@ extension Array where Element: Comparable {
         return right
     }
 }
+
+extension Array {
+    
+    func combination<T>(_ input: [T]) -> [[T]] {
+        var visited = [Bool](repeating: false, count: input.count)
+        var combinationSet: [[T]] = []
+        
+        func combi(curIndex: Int, limit: Int, count: Int, tempArr: [T]) {
+            if limit == count {
+                combinationSet.append(tempArr)
+                return
+            }
+            
+            for i in curIndex..<input.count {
+                if visited[i] {
+                    continue
+                }
+                visited[i] = true
+                combi(curIndex: i ,limit: limit, count: count+1, tempArr: tempArr+[input[i]])
+                visited[i] = false
+            }
+        }
+
+        for limit in 1...input.count {
+            for i in input.indices {
+                if visited[i] {
+                    continue
+                }
+                visited[i] = true
+                combi(curIndex: i, limit: limit, count: 1, tempArr: [input[i]])
+                visited[i] = false
+            }
+        }
+        
+        return combinationSet
+    }
+}
