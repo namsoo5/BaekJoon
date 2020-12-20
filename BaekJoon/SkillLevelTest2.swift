@@ -35,7 +35,7 @@ private func solutionLevelTest2_2(_ clothes:[[String]]) -> Int {
     }
     
     return result
-//}
+}
 //
 //solutionLevelTest2_2([["yellow_hat", "headgear"], ["blue_sunglasses", "eyewear"], ["green_turban", "headgear"]])
 //solutionLevelTest2_2([["crow_mask", "face"], ["blue_sunglasses", "face"], ["smoky_makeup", "face"]])
