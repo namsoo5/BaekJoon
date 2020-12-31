@@ -41,6 +41,8 @@
 		0654375324A5A33000210383 /* 2468.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0654375224A5A33000210383 /* 2468.swift */; };
 		065A8F6D25551F4A001C11A5 /* MakeOptional.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065A8F6C25551F4A001C11A5 /* MakeOptional.swift */; };
 		065A8F7125552B84001C11A5 /* P17684.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065A8F7025552B84001C11A5 /* P17684.swift */; };
+		065DD13A259DDB60008CAC7B /* MakeCOW.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065DD139259DDB60008CAC7B /* MakeCOW.swift */; };
+		065DD13D259E0729008CAC7B /* MakeOperator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065DD13C259E0729008CAC7B /* MakeOperator.swift */; };
 		065F2FD02499D0F0003A0156 /* Extension+sosu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065F2FCF2499D0F0003A0156 /* Extension+sosu.swift */; };
 		065F2FD52499E2D6003A0156 /* 2581.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065F2FD42499E2D6003A0156 /* 2581.swift */; };
 		065F2FD8249A331C003A0156 /* ProgrammersPrinter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065F2FD7249A331C003A0156 /* ProgrammersPrinter.swift */; };
@@ -157,6 +159,8 @@
 		0654375224A5A33000210383 /* 2468.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2468.swift; sourceTree = "<group>"; };
 		065A8F6C25551F4A001C11A5 /* MakeOptional.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeOptional.swift; sourceTree = "<group>"; };
 		065A8F7025552B84001C11A5 /* P17684.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P17684.swift; sourceTree = "<group>"; };
+		065DD139259DDB60008CAC7B /* MakeCOW.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeCOW.swift; sourceTree = "<group>"; };
+		065DD13C259E0729008CAC7B /* MakeOperator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeOperator.swift; sourceTree = "<group>"; };
 		065F2FCF2499D0F0003A0156 /* Extension+sosu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension+sosu.swift"; sourceTree = "<group>"; };
 		065F2FD42499E2D6003A0156 /* 2581.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2581.swift; sourceTree = "<group>"; };
 		065F2FD7249A331C003A0156 /* ProgrammersPrinter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgrammersPrinter.swift; sourceTree = "<group>"; };
@@ -402,6 +406,7 @@
 			children = (
 				06D3E6EF248DEF8E00360CCD /* main.swift */,
 				065A8F6C25551F4A001C11A5 /* MakeOptional.swift */,
+				065DD13C259E0729008CAC7B /* MakeOperator.swift */,
 				06439713255AA1E1008F37FD /* MakeDictionary.swift */,
 				065F2FD12499D3D1003A0156 /* Extension */,
 				0617A6022582587300A58034 /* 11월 */,
@@ -415,6 +420,7 @@
 				06F37FEC258784C700E8F999 /* SkillLevelTest1.swift */,
 				06F37FF22589AD1400E8F999 /* SkillLevelTest2.swift */,
 				069F95162590C12700B64999 /* P42861.swift */,
+				065DD139259DDB60008CAC7B /* MakeCOW.swift */,
 			);
 			path = BaekJoon;
 			sourceTree = "<group>";
@@ -531,6 +537,7 @@
 				06E5110D2517516700B53299 /* Trie.swift in Sources */,
 				060D5DEC24FAB4FF002273DD /* P62048.swift in Sources */,
 				06BCB6FC24DBFF97005D8B3D /* 1436.swift in Sources */,
+				065DD13A259DDB60008CAC7B /* MakeCOW.swift in Sources */,
 				06BCB6FE24E2D0E4005D8B3D /* 15649.swift in Sources */,
 				06A720B824D1B96200ED31DC /* 9095.swift in Sources */,
 				06D3E6F7248DFE3C00360CCD /* 10951.swift in Sources */,
@@ -584,6 +591,7 @@
 				065A8F6D25551F4A001C11A5 /* MakeOptional.swift in Sources */,
 				06375F132549578700072626 /* P42890.swift in Sources */,
 				062A9331251102A400259794 /* P12941.swift in Sources */,
+				065DD13D259E0729008CAC7B /* MakeOperator.swift in Sources */,
 				06A720B424D18C5900ED31DC /* 1107.swift in Sources */,
 				06D3E6F0248DEF8E00360CCD /* main.swift in Sources */,
 				06A720B624D1B95B00ED31DC /* 11726.swift in Sources */,
