@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		06004AC2254D2AE400D28B71 /* 2020프로그래머스윈터코딩.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06004AC1254D2AE400D28B71 /* 2020프로그래머스윈터코딩.swift */; };
 		060D5D9A24EBC6D3002273DD /* P42842.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060D5D9924EBC6D3002273DD /* P42842.swift */; };
 		060D5D9C24F0F21E002273DD /* P42883.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060D5D9B24F0F21E002273DD /* P42883.swift */; };
 		060D5DBE24F22CA6002273DD /* socarCodeTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060D5DBD24F22CA6002273DD /* socarCodeTest.swift */; };
@@ -18,7 +17,6 @@
 		060D5DEC24FAB4FF002273DD /* P62048.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060D5DEB24FAB4FF002273DD /* P62048.swift */; };
 		060D5DEE24FE2C15002273DD /* P60057.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060D5DED24FE2C15002273DD /* P60057.swift */; };
 		0615687D253D924700A9CBD4 /* P12985.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0615687C253D924700A9CBD4 /* P12985.swift */; };
-		06156880253EB3A300A9CBD4 /* 카카오엔터프라이즈코테.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0615687F253EB3A300A9CBD4 /* 카카오엔터프라이즈코테.swift */; };
 		06156887253FCDA000A9CBD4 /* P17677.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06156886253FCDA000A9CBD4 /* P17677.swift */; };
 		0617A6042582589A00A58034 /* P49189.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0617A6032582589A00A58034 /* P49189.swift */; };
 		06222E68253C155A0009720E /* P12981.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06222E67253C155A0009720E /* P12981.swift */; };
@@ -42,7 +40,6 @@
 		065A8F6D25551F4A001C11A5 /* MakeOptional.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065A8F6C25551F4A001C11A5 /* MakeOptional.swift */; };
 		065A8F7125552B84001C11A5 /* P17684.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065A8F7025552B84001C11A5 /* P17684.swift */; };
 		065DD13A259DDB60008CAC7B /* MakeCOW.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065DD139259DDB60008CAC7B /* MakeCOW.swift */; };
-		065DD13D259E0729008CAC7B /* MakeOperator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065DD13C259E0729008CAC7B /* MakeOperator.swift */; };
 		065F2FD02499D0F0003A0156 /* Extension+sosu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065F2FCF2499D0F0003A0156 /* Extension+sosu.swift */; };
 		065F2FD52499E2D6003A0156 /* 2581.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065F2FD42499E2D6003A0156 /* 2581.swift */; };
 		065F2FD8249A331C003A0156 /* ProgrammersPrinter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065F2FD7249A331C003A0156 /* ProgrammersPrinter.swift */; };
@@ -125,7 +122,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		06004AC1254D2AE400D28B71 /* 2020프로그래머스윈터코딩.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2020프로그래머스윈터코딩.swift"; sourceTree = "<group>"; };
 		060D5D9924EBC6D3002273DD /* P42842.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P42842.swift; sourceTree = "<group>"; };
 		060D5D9B24F0F21E002273DD /* P42883.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P42883.swift; sourceTree = "<group>"; };
 		060D5DBD24F22CA6002273DD /* socarCodeTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = socarCodeTest.swift; sourceTree = "<group>"; };
@@ -136,7 +132,6 @@
 		060D5DEB24FAB4FF002273DD /* P62048.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P62048.swift; sourceTree = "<group>"; };
 		060D5DED24FE2C15002273DD /* P60057.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P60057.swift; sourceTree = "<group>"; };
 		0615687C253D924700A9CBD4 /* P12985.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P12985.swift; sourceTree = "<group>"; };
-		0615687F253EB3A300A9CBD4 /* 카카오엔터프라이즈코테.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "카카오엔터프라이즈코테.swift"; sourceTree = "<group>"; };
 		06156886253FCDA000A9CBD4 /* P17677.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P17677.swift; sourceTree = "<group>"; };
 		0617A6032582589A00A58034 /* P49189.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P49189.swift; sourceTree = "<group>"; };
 		06222E67253C155A0009720E /* P12981.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P12981.swift; sourceTree = "<group>"; };
@@ -160,7 +155,6 @@
 		065A8F6C25551F4A001C11A5 /* MakeOptional.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeOptional.swift; sourceTree = "<group>"; };
 		065A8F7025552B84001C11A5 /* P17684.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P17684.swift; sourceTree = "<group>"; };
 		065DD139259DDB60008CAC7B /* MakeCOW.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeCOW.swift; sourceTree = "<group>"; };
-		065DD13C259E0729008CAC7B /* MakeOperator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeOperator.swift; sourceTree = "<group>"; };
 		065F2FCF2499D0F0003A0156 /* Extension+sosu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension+sosu.swift"; sourceTree = "<group>"; };
 		065F2FD42499E2D6003A0156 /* 2581.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2581.swift; sourceTree = "<group>"; };
 		065F2FD7249A331C003A0156 /* ProgrammersPrinter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgrammersPrinter.swift; sourceTree = "<group>"; };
@@ -277,6 +271,33 @@
 			path = "10월";
 			sourceTree = "<group>";
 		};
+		065DD13F259F13B6008CAC7B /* 12월 */ = {
+			isa = PBXGroup;
+			children = (
+				0617A6032582589A00A58034 /* P49189.swift */,
+				069F95162590C12700B64999 /* P42861.swift */,
+				06F37FEC258784C700E8F999 /* SkillLevelTest1.swift */,
+				06F37FF22589AD1400E8F999 /* SkillLevelTest2.swift */,
+			);
+			name = "12월";
+			path = "12월";
+			sourceTree = "<group>";
+		};
+		065DD140259F13C2008CAC7B /* 2020년 */ = {
+			isa = PBXGroup;
+			children = (
+				065DD13F259F13B6008CAC7B /* 12월 */,
+				0617A6022582587300A58034 /* 11월 */,
+				065A8F7325552B9D001C11A5 /* 10월 */,
+				06EEB5DA252755A7003CED60 /* 9월 */,
+				06ACFE68250876B400F2B74C /* 8월 */,
+				06ACFE6B2508771200F2B74C /* 7월 */,
+				06ACFE6A250876DF00F2B74C /* 6월 */,
+			);
+			name = "2020년";
+			path = "2020년";
+			sourceTree = "<group>";
+		};
 		065F2FD12499D3D1003A0156 /* Extension */ = {
 			isa = PBXGroup;
 			children = (
@@ -321,8 +342,6 @@
 				0660F3C5250DA8EA0059824A /* Line2020하반기공채.swift */,
 				06334CDD251ECFB0000DD4D7 /* 네이버2020하반기 공채코테.swift */,
 				068131D9253074390081A99F /* Coupang2020하반기.swift */,
-				0615687F253EB3A300A9CBD4 /* 카카오엔터프라이즈코테.swift */,
-				06004AC1254D2AE400D28B71 /* 2020프로그래머스윈터코딩.swift */,
 			);
 			path = CodingTest;
 			sourceTree = "<group>";
@@ -404,23 +423,13 @@
 		06D3E6EE248DEF8E00360CCD /* BaekJoon */ = {
 			isa = PBXGroup;
 			children = (
+				065DD140259F13C2008CAC7B /* 2020년 */,
 				06D3E6EF248DEF8E00360CCD /* main.swift */,
-				065A8F6C25551F4A001C11A5 /* MakeOptional.swift */,
-				065DD13C259E0729008CAC7B /* MakeOperator.swift */,
-				06439713255AA1E1008F37FD /* MakeDictionary.swift */,
 				065F2FD12499D3D1003A0156 /* Extension */,
-				0617A6022582587300A58034 /* 11월 */,
-				065A8F7325552B9D001C11A5 /* 10월 */,
-				06EEB5DA252755A7003CED60 /* 9월 */,
-				06ACFE68250876B400F2B74C /* 8월 */,
-				06ACFE6B2508771200F2B74C /* 7월 */,
-				06ACFE6A250876DF00F2B74C /* 6월 */,
 				069BB3B2256D5C7F00BF5F9D /* MakeNormalSort.swift */,
-				0617A6032582589A00A58034 /* P49189.swift */,
-				06F37FEC258784C700E8F999 /* SkillLevelTest1.swift */,
-				06F37FF22589AD1400E8F999 /* SkillLevelTest2.swift */,
-				069F95162590C12700B64999 /* P42861.swift */,
 				065DD139259DDB60008CAC7B /* MakeCOW.swift */,
+				065A8F6C25551F4A001C11A5 /* MakeOptional.swift */,
+				06439713255AA1E1008F37FD /* MakeDictionary.swift */,
 			);
 			path = BaekJoon;
 			sourceTree = "<group>";
@@ -508,9 +517,7 @@
 				06375F0B2547E8F900072626 /* P17680.swift in Sources */,
 				0654370C24A315B900210383 /* 10872.swift in Sources */,
 				06A2B10A2536ED720013BCAD /* P12973.swift in Sources */,
-				06004AC2254D2AE400D28B71 /* 2020프로그래머스윈터코딩.swift in Sources */,
 				063698DC24C87ED900C1C900 /* 2503.swift in Sources */,
-				06156880253EB3A300A9CBD4 /* 카카오엔터프라이즈코테.swift in Sources */,
 				069E3D0A24973F2900100D7C /* 10250.swift in Sources */,
 				06334CDA251E1A7B000DD4D7 /* P12953.swift in Sources */,
 				06A720C024D5431700ED31DC /* tossCodeTest.swift in Sources */,
@@ -591,7 +598,6 @@
 				065A8F6D25551F4A001C11A5 /* MakeOptional.swift in Sources */,
 				06375F132549578700072626 /* P42890.swift in Sources */,
 				062A9331251102A400259794 /* P12941.swift in Sources */,
-				065DD13D259E0729008CAC7B /* MakeOperator.swift in Sources */,
 				06A720B424D18C5900ED31DC /* 1107.swift in Sources */,
 				06D3E6F0248DEF8E00360CCD /* main.swift in Sources */,
 				06A720B624D1B95B00ED31DC /* 11726.swift in Sources */,
