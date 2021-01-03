@@ -92,6 +92,8 @@
 		06BCB70724E91FFF005D8B3D /* P42860.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06BCB70624E91FFF005D8B3D /* P42860.swift */; };
 		06BCB70924EAC217005D8B3D /* 15652.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06BCB70824EAC217005D8B3D /* 15652.swift */; };
 		06BDE1A0254BEE3D00D732AF /* Extension+String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06BDE19F254BEE3D00D732AF /* Extension+String.swift */; };
+		06C40E31259F407B0013F844 /* SystemTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C40E30259F407B0013F844 /* SystemTimer.swift */; };
+		06C40E36259F57E30013F844 /* PICNIC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C40E35259F57E30013F844 /* PICNIC.swift */; };
 		06CC021E2563B7B400872954 /* P70129.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06CC021D2563B7B400872954 /* P70129.swift */; };
 		06D33AFA2573F3AD0093FDED /* P60059.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D33AF92573F3AD0093FDED /* P60059.swift */; };
 		06D3E6F0248DEF8E00360CCD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D3E6EF248DEF8E00360CCD /* main.swift */; };
@@ -100,6 +102,8 @@
 		06D3E6FB248F23FF00360CCD /* 1065.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D3E6FA248F23FF00360CCD /* 1065.swift */; };
 		06D3E7072490748800360CCD /* 11720.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D3E7062490748800360CCD /* 11720.swift */; };
 		06E5110D2517516700B53299 /* Trie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06E5110C2517516700B53299 /* Trie.swift */; };
+		06EEA1DA25A0AD820023BB1D /* BOARDCOVER.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EEA1D925A0AD820023BB1D /* BOARDCOVER.swift */; };
+		06EEA1DD25A1E94F0023BB1D /* CLOCKSYNC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EEA1DC25A1E94F0023BB1D /* CLOCKSYNC.swift */; };
 		06EEB5B9252476DC003CED60 /* P12945.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EEB5B8252476DC003CED60 /* P12945.swift */; };
 		06F0DBDB255FD63900F54CA1 /* P17687.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06F0DBDA255FD63900F54CA1 /* P17687.swift */; };
 		06F37FED258784C700E8F999 /* SkillLevelTest1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06F37FEC258784C700E8F999 /* SkillLevelTest1.swift */; };
@@ -207,6 +211,8 @@
 		06BCB70624E91FFF005D8B3D /* P42860.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P42860.swift; sourceTree = "<group>"; };
 		06BCB70824EAC217005D8B3D /* 15652.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 15652.swift; sourceTree = "<group>"; };
 		06BDE19F254BEE3D00D732AF /* Extension+String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension+String.swift"; sourceTree = "<group>"; };
+		06C40E30259F407B0013F844 /* SystemTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemTimer.swift; sourceTree = "<group>"; };
+		06C40E35259F57E30013F844 /* PICNIC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PICNIC.swift; sourceTree = "<group>"; };
 		06CC021D2563B7B400872954 /* P70129.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P70129.swift; sourceTree = "<group>"; };
 		06D33AF92573F3AD0093FDED /* P60059.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P60059.swift; sourceTree = "<group>"; };
 		06D3E6EC248DEF8E00360CCD /* BaekJoon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BaekJoon; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -216,6 +222,8 @@
 		06D3E6FA248F23FF00360CCD /* 1065.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1065.swift; sourceTree = "<group>"; };
 		06D3E7062490748800360CCD /* 11720.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11720.swift; sourceTree = "<group>"; };
 		06E5110C2517516700B53299 /* Trie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trie.swift; sourceTree = "<group>"; };
+		06EEA1D925A0AD820023BB1D /* BOARDCOVER.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOARDCOVER.swift; sourceTree = "<group>"; };
+		06EEA1DC25A1E94F0023BB1D /* CLOCKSYNC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CLOCKSYNC.swift; sourceTree = "<group>"; };
 		06EEB5B8252476DC003CED60 /* P12945.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P12945.swift; sourceTree = "<group>"; };
 		06F0DBDA255FD63900F54CA1 /* P17687.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P17687.swift; sourceTree = "<group>"; };
 		06F37FEC258784C700E8F999 /* SkillLevelTest1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkillLevelTest1.swift; sourceTree = "<group>"; };
@@ -307,6 +315,7 @@
 				0660F3C7250DE0990059824A /* Heap.swift */,
 				06E5110C2517516700B53299 /* Trie.swift */,
 				06BDE19F254BEE3D00D732AF /* Extension+String.swift */,
+				06C40E30259F407B0013F844 /* SystemTimer.swift */,
 			);
 			path = Extension;
 			sourceTree = "<group>";
@@ -402,11 +411,23 @@
 			path = "7월";
 			sourceTree = "<group>";
 		};
+		06C40E33259F41B10013F844 /* 알고리즘책실습 */ = {
+			isa = PBXGroup;
+			children = (
+				06C40E35259F57E30013F844 /* PICNIC.swift */,
+				06EEA1D925A0AD820023BB1D /* BOARDCOVER.swift */,
+				06EEA1DC25A1E94F0023BB1D /* CLOCKSYNC.swift */,
+			);
+			name = "알고리즘책실습";
+			path = "알고리즘책실습";
+			sourceTree = "<group>";
+		};
 		06D3E6E3248DEF8E00360CCD = {
 			isa = PBXGroup;
 			children = (
 				06A720C124D6C82400ED31DC /* CodingTest */,
 				065F2FD6249A32F8003A0156 /* Study */,
+				06C40E33259F41B10013F844 /* 알고리즘책실습 */,
 				06D3E6EE248DEF8E00360CCD /* BaekJoon */,
 				06D3E6ED248DEF8E00360CCD /* Products */,
 			);
@@ -514,6 +535,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				06813181252ACCFB0081A99F /* P12949.swift in Sources */,
+				06C40E36259F57E30013F844 /* PICNIC.swift in Sources */,
 				06375F0B2547E8F900072626 /* P17680.swift in Sources */,
 				0654370C24A315B900210383 /* 10872.swift in Sources */,
 				06A2B10A2536ED720013BCAD /* P12973.swift in Sources */,
@@ -565,6 +587,8 @@
 				06ACFE672508769200F2B74C /* P12913.swift in Sources */,
 				0660F3C8250DE0990059824A /* Heap.swift in Sources */,
 				062A93672514A64700259794 /* P68645.swift in Sources */,
+				06C40E31259F407B0013F844 /* SystemTimer.swift in Sources */,
+				06EEA1DA25A0AD820023BB1D /* BOARDCOVER.swift in Sources */,
 				06F37FED258784C700E8F999 /* SkillLevelTest1.swift in Sources */,
 				060D5D9C24F0F21E002273DD /* P42883.swift in Sources */,
 				06A2B12A253AC9260013BCAD /* P12980.swift in Sources */,
@@ -585,6 +609,7 @@
 				069E3D082495D98600100D7C /* 2869.swift in Sources */,
 				06F0DBDB255FD63900F54CA1 /* P17687.swift in Sources */,
 				0654370824A2145900210383 /* P64061.swift in Sources */,
+				06EEA1DD25A1E94F0023BB1D /* CLOCKSYNC.swift in Sources */,
 				060D5DE624F6B8C4002273DD /* P42746.swift in Sources */,
 				06BCB6FA24DAA83E005D8B3D /* P12899.swift in Sources */,
 				06A2B10D2536F3ED0013BCAD /* P12977.swift in Sources */,
