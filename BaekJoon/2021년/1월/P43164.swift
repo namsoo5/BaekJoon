@@ -22,7 +22,7 @@ private func solutionP43164(_ tickets:[[String]]) -> [String] {
     let department: String = "ICN"
     var result: [String] = [department]
     
-    func bfs(depart: String, path: [String]) {
+    func dfs(depart: String, path: [String]) {
         if path.count == tickets.count + 1 {
             if result.count != tickets.count + 1 {
                 result = path
@@ -50,13 +50,13 @@ private func solutionP43164(_ tickets:[[String]]) -> [String] {
                 var path = path
                 path.append(arrive)
                 visited[i] = true
-                bfs(depart: arrive, path: path)
+                dfs(depart: arrive, path: path)
                 visited[i] = false
             }
         }
     }
     
-    bfs(depart: department, path: result)
+    dfs(depart: department, path: result)
     
     print(result)
     return result
