@@ -56,6 +56,7 @@
 		0666F82E25B815B40009A9C1 /* P49191.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0666F82D25B815B40009A9C1 /* P49191.swift */; };
 		0666F86025C017310009A9C1 /* P72411.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0666F85F25C017310009A9C1 /* P72411.swift */; };
 		0666F89125C2D7DD0009A9C1 /* P12904.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0666F89025C2D7DD0009A9C1 /* P12904.swift */; };
+		0666F8B625C6C42A0009A9C1 /* P60062.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0666F8B525C6C42A0009A9C1 /* P60062.swift */; };
 		06705258254570B700ECAE1C /* P17679.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06705257254570B700ECAE1C /* P17679.swift */; };
 		0671D3002564DFD2000E9B07 /* P17676.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0671D2FF2564DFD2000E9B07 /* P17676.swift */; };
 		06813181252ACCFB0081A99F /* P12949.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06813180252ACCFB0081A99F /* P12949.swift */; };
@@ -183,6 +184,7 @@
 		0666F82D25B815B40009A9C1 /* P49191.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P49191.swift; sourceTree = "<group>"; };
 		0666F85F25C017310009A9C1 /* P72411.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P72411.swift; sourceTree = "<group>"; };
 		0666F89025C2D7DD0009A9C1 /* P12904.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P12904.swift; sourceTree = "<group>"; };
+		0666F8B525C6C42A0009A9C1 /* P60062.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P60062.swift; sourceTree = "<group>"; };
 		06705257254570B700ECAE1C /* P17679.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P17679.swift; sourceTree = "<group>"; };
 		0671D2FF2564DFD2000E9B07 /* P17676.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P17676.swift; sourceTree = "<group>"; };
 		06813180252ACCFB0081A99F /* P12949.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P12949.swift; sourceTree = "<group>"; };
@@ -285,6 +287,7 @@
 				0666F82D25B815B40009A9C1 /* P49191.swift */,
 				0666F85F25C017310009A9C1 /* P72411.swift */,
 				0666F89025C2D7DD0009A9C1 /* P12904.swift */,
+				0666F8B525C6C42A0009A9C1 /* P60062.swift */,
 			);
 			name = "1월";
 			path = "1월";
@@ -635,6 +638,7 @@
 				06ACFE672508769200F2B74C /* P12913.swift in Sources */,
 				0660F3C8250DE0990059824A /* Heap.swift in Sources */,
 				062A93672514A64700259794 /* P68645.swift in Sources */,
+				0666F8B625C6C42A0009A9C1 /* P60062.swift in Sources */,
 				06C40E31259F407B0013F844 /* SystemTimer.swift in Sources */,
 				06EEA1DA25A0AD820023BB1D /* BOARDCOVER.swift in Sources */,
 				06F37FED258784C700E8F999 /* SkillLevelTest1.swift in Sources */,
