@@ -57,6 +57,7 @@
 		0666F86025C017310009A9C1 /* P72411.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0666F85F25C017310009A9C1 /* P72411.swift */; };
 		0666F89125C2D7DD0009A9C1 /* P12904.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0666F89025C2D7DD0009A9C1 /* P12904.swift */; };
 		0666F8B625C6C42A0009A9C1 /* P60062.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0666F8B525C6C42A0009A9C1 /* P60062.swift */; };
+		0666F8BB25C95F050009A9C1 /* P12914.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0666F8BA25C95F050009A9C1 /* P12914.swift */; };
 		06705258254570B700ECAE1C /* P17679.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06705257254570B700ECAE1C /* P17679.swift */; };
 		0671D3002564DFD2000E9B07 /* P17676.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0671D2FF2564DFD2000E9B07 /* P17676.swift */; };
 		06813181252ACCFB0081A99F /* P12949.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06813180252ACCFB0081A99F /* P12949.swift */; };
@@ -185,6 +186,7 @@
 		0666F85F25C017310009A9C1 /* P72411.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P72411.swift; sourceTree = "<group>"; };
 		0666F89025C2D7DD0009A9C1 /* P12904.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P12904.swift; sourceTree = "<group>"; };
 		0666F8B525C6C42A0009A9C1 /* P60062.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P60062.swift; sourceTree = "<group>"; };
+		0666F8BA25C95F050009A9C1 /* P12914.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P12914.swift; sourceTree = "<group>"; };
 		06705257254570B700ECAE1C /* P17679.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P17679.swift; sourceTree = "<group>"; };
 		0671D2FF2564DFD2000E9B07 /* P17676.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P17676.swift; sourceTree = "<group>"; };
 		06813180252ACCFB0081A99F /* P12949.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P12949.swift; sourceTree = "<group>"; };
@@ -375,9 +377,19 @@
 			path = Study;
 			sourceTree = "<group>";
 		};
+		0666F8B925C95EFE0009A9C1 /* 2월 */ = {
+			isa = PBXGroup;
+			children = (
+				0666F8BA25C95F050009A9C1 /* P12914.swift */,
+			);
+			name = "2월";
+			path = "2월";
+			sourceTree = "<group>";
+		};
 		069E3EB925A802D90088D690 /* 2021년 */ = {
 			isa = PBXGroup;
 			children = (
+				0666F8B925C95EFE0009A9C1 /* 2월 */,
 				06371D8125ADE27500FBD087 /* 1월 */,
 			);
 			name = "2021년";
@@ -613,6 +625,7 @@
 				06371D8325ADE28400FBD087 /* P43238.swift in Sources */,
 				06813184252AD7C20081A99F /* P12951.swift in Sources */,
 				06E5110D2517516700B53299 /* Trie.swift in Sources */,
+				0666F8BB25C95F050009A9C1 /* P12914.swift in Sources */,
 				060D5DEC24FAB4FF002273DD /* P62048.swift in Sources */,
 				06BCB6FC24DBFF97005D8B3D /* 1436.swift in Sources */,
 				065DD13A259DDB60008CAC7B /* MakeCOW.swift in Sources */,
