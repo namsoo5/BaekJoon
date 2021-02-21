@@ -32,6 +32,9 @@
 		06375F0B2547E8F900072626 /* P17680.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06375F0A2547E8F900072626 /* P17680.swift */; };
 		06375F132549578700072626 /* P42890.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06375F122549578700072626 /* P42890.swift */; };
 		06375F19254A94C400072626 /* P17683.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06375F18254A94C400072626 /* P17683.swift */; };
+		0637E3BE25DFA108008049F7 /* P42587.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0637E3BD25DFA108008049F7 /* P42587.swift */; };
+		0637E3C225DFBFD5008049F7 /* P42860_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0637E3C125DFBFD5008049F7 /* P42860_2.swift */; };
+		0637E3C825E23751008049F7 /* P12946.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0637E3C725E23751008049F7 /* P12946.swift */; };
 		064397032559501C008F37FD /* P17686.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064397022559501C008F37FD /* P17686.swift */; };
 		06439714255AA1E1008F37FD /* MakeDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06439713255AA1E1008F37FD /* MakeDictionary.swift */; };
 		0654370824A2145900210383 /* P64061.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0654370724A2145900210383 /* P64061.swift */; };
@@ -161,6 +164,9 @@
 		06375F0A2547E8F900072626 /* P17680.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P17680.swift; sourceTree = "<group>"; };
 		06375F122549578700072626 /* P42890.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P42890.swift; sourceTree = "<group>"; };
 		06375F18254A94C400072626 /* P17683.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P17683.swift; sourceTree = "<group>"; };
+		0637E3BD25DFA108008049F7 /* P42587.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P42587.swift; sourceTree = "<group>"; };
+		0637E3C125DFBFD5008049F7 /* P42860_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P42860_2.swift; sourceTree = "<group>"; };
+		0637E3C725E23751008049F7 /* P12946.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P12946.swift; sourceTree = "<group>"; };
 		064397022559501C008F37FD /* P17686.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P17686.swift; sourceTree = "<group>"; };
 		06439713255AA1E1008F37FD /* MakeDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeDictionary.swift; sourceTree = "<group>"; };
 		0654370724A2145900210383 /* P64061.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P64061.swift; sourceTree = "<group>"; };
@@ -381,6 +387,9 @@
 			isa = PBXGroup;
 			children = (
 				0666F8BA25C95F050009A9C1 /* P12914.swift */,
+				0637E3BD25DFA108008049F7 /* P42587.swift */,
+				0637E3C125DFBFD5008049F7 /* P42860_2.swift */,
+				0637E3C725E23751008049F7 /* P12946.swift */,
 			);
 			name = "2월";
 			path = "2월";
@@ -643,12 +652,14 @@
 				0660F3BE250BBF140059824A /* P67257.swift in Sources */,
 				06BDE1A0254BEE3D00D732AF /* Extension+String.swift in Sources */,
 				060D5DBE24F22CA6002273DD /* socarCodeTest.swift in Sources */,
+				0637E3BE25DFA108008049F7 /* P42587.swift in Sources */,
 				069E3D2324985AC200100D7C /* 1978.swift in Sources */,
 				06A720C324D722AE00ED31DC /* 2447.swift in Sources */,
 				065F2FDA249B4F13003A0156 /* 1021.swift in Sources */,
 				0666F86025C017310009A9C1 /* P72411.swift in Sources */,
 				0686517024FF9A39008F0EB9 /* P60058.swift in Sources */,
 				06ACFE672508769200F2B74C /* P12913.swift in Sources */,
+				0637E3C225DFBFD5008049F7 /* P42860_2.swift in Sources */,
 				0660F3C8250DE0990059824A /* Heap.swift in Sources */,
 				062A93672514A64700259794 /* P68645.swift in Sources */,
 				0666F8B625C6C42A0009A9C1 /* P60062.swift in Sources */,
@@ -661,6 +672,7 @@
 				060D5DEA24FAB23E002273DD /* Extension+GCD.swift in Sources */,
 				06ACFE652507773700F2B74C /* P12909.swift in Sources */,
 				06334CDC251E3026000DD4D7 /* P43163.swift in Sources */,
+				0637E3C825E23751008049F7 /* P12946.swift in Sources */,
 				06BCB70924EAC217005D8B3D /* 15652.swift in Sources */,
 				06A720BC24D2606D00ED31DC /* tossTestCode.swift in Sources */,
 				065A8F7125552B84001C11A5 /* P17684.swift in Sources */,
