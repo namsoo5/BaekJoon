@@ -25,5 +25,6 @@ func searchSosu(max: Int) -> [Int] {
         }
     }
 //    sosuArr.enumerated().filter{$1 == 0}.forEach { print($0.offset) }
+//    print(sosuArr)
     return sosuArr
 }
