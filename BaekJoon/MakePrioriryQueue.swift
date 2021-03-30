@@ -81,4 +81,12 @@ struct PriorityQueue<T> {
     func printElement() {
         heap.forEach { print($0) }
     }
+    
+    mutating func removeLastElement() -> T? {
+        if heap.isEmpty {
+            return nil
+        }
+        let temp = heap.removeLast()
+        return temp
+    }
 }
