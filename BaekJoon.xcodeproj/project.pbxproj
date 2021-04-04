@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0609A0232618780300A81A2F /* 2021채널코퍼레이션.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0609A0222618780300A81A2F /* 2021채널코퍼레이션.swift */; };
 		060D5D9A24EBC6D3002273DD /* P42842.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060D5D9924EBC6D3002273DD /* P42842.swift */; };
 		060D5D9C24F0F21E002273DD /* P42883.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060D5D9B24F0F21E002273DD /* P42883.swift */; };
 		060D5DBE24F22CA6002273DD /* socarCodeTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060D5DBD24F22CA6002273DD /* socarCodeTest.swift */; };
@@ -66,6 +67,10 @@
 		066C280E260F6BFD00A67F1F /* P72413.swift in Sources */ = {isa = PBXBuildFile; fileRef = 066C280D260F6BFD00A67F1F /* P72413.swift */; };
 		066C28112611A0F400A67F1F /* MakePrioriryQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 066C28102611A0F400A67F1F /* MakePrioriryQueue.swift */; };
 		066C28142611A12600A67F1F /* P42627.swift in Sources */ = {isa = PBXBuildFile; fileRef = 066C28132611A12600A67F1F /* P42627.swift */; };
+		066C28172612F49800A67F1F /* P42628.swift in Sources */ = {isa = PBXBuildFile; fileRef = 066C28162612F49800A67F1F /* P42628.swift */; };
+		066C281B26145F3500A67F1F /* P42842_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 066C281A26145F3500A67F1F /* P42842_2.swift */; };
+		066C2845261759BF00A67F1F /* P17686_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 066C2844261759BF00A67F1F /* P17686_2.swift */; };
+		066C284A261839BA00A67F1F /* 2021카카오커머스상반기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 066C2849261839BA00A67F1F /* 2021카카오커머스상반기.swift */; };
 		06705258254570B700ECAE1C /* P17679.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06705257254570B700ECAE1C /* P17679.swift */; };
 		0671D3002564DFD2000E9B07 /* P17676.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0671D2FF2564DFD2000E9B07 /* P17676.swift */; };
 		067FB75525F1018E0026B19C /* P72412.swift in Sources */ = {isa = PBXBuildFile; fileRef = 067FB75425F1018E0026B19C /* P72412.swift */; };
@@ -163,6 +168,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0609A0222618780300A81A2F /* 2021채널코퍼레이션.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2021채널코퍼레이션.swift"; sourceTree = "<group>"; };
 		060D5D9924EBC6D3002273DD /* P42842.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P42842.swift; sourceTree = "<group>"; };
 		060D5D9B24F0F21E002273DD /* P42883.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P42883.swift; sourceTree = "<group>"; };
 		060D5DBD24F22CA6002273DD /* socarCodeTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = socarCodeTest.swift; sourceTree = "<group>"; };
@@ -222,6 +228,10 @@
 		066C280D260F6BFD00A67F1F /* P72413.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P72413.swift; sourceTree = "<group>"; };
 		066C28102611A0F400A67F1F /* MakePrioriryQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakePrioriryQueue.swift; sourceTree = "<group>"; };
 		066C28132611A12600A67F1F /* P42627.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P42627.swift; sourceTree = "<group>"; };
+		066C28162612F49800A67F1F /* P42628.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P42628.swift; sourceTree = "<group>"; };
+		066C281A26145F3500A67F1F /* P42842_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P42842_2.swift; sourceTree = "<group>"; };
+		066C2844261759BF00A67F1F /* P17686_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P17686_2.swift; sourceTree = "<group>"; };
+		066C2849261839BA00A67F1F /* 2021카카오커머스상반기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2021카카오커머스상반기.swift"; sourceTree = "<group>"; };
 		06705257254570B700ECAE1C /* P17679.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P17679.swift; sourceTree = "<group>"; };
 		0671D2FF2564DFD2000E9B07 /* P17676.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P17676.swift; sourceTree = "<group>"; };
 		067FB75425F1018E0026B19C /* P72412.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P72412.swift; sourceTree = "<group>"; };
@@ -336,7 +346,6 @@
 		06371D8125ADE27500FBD087 /* 1월 */ = {
 			isa = PBXGroup;
 			children = (
-				069E3EBA25A802E50088D690 /* P60061.swift */,
 				06371D8225ADE28400FBD087 /* P43238.swift */,
 				06371D8825B0681300FBD087 /* P43164.swift */,
 				0666F82825B42B090009A9C1 /* P42579.swift */,
@@ -444,6 +453,17 @@
 			path = "2월";
 			sourceTree = "<group>";
 		};
+		066C2843261759B900A67F1F /* 4월 */ = {
+			isa = PBXGroup;
+			children = (
+				066C2844261759BF00A67F1F /* P17686_2.swift */,
+				066C2849261839BA00A67F1F /* 2021카카오커머스상반기.swift */,
+				0609A0222618780300A81A2F /* 2021채널코퍼레이션.swift */,
+			);
+			name = "4월";
+			path = "4월";
+			sourceTree = "<group>";
+		};
 		068EC20925EE353400484FBB /* 3월 */ = {
 			isa = PBXGroup;
 			children = (
@@ -469,6 +489,9 @@
 				066C27FF260B65D000A67F1F /* P72410.swift */,
 				066C280D260F6BFD00A67F1F /* P72413.swift */,
 				066C28132611A12600A67F1F /* P42627.swift */,
+				066C28162612F49800A67F1F /* P42628.swift */,
+				069E3EBA25A802E50088D690 /* P60061.swift */,
+				066C281A26145F3500A67F1F /* P42842_2.swift */,
 			);
 			name = "3월";
 			path = "3월";
@@ -477,6 +500,7 @@
 		069E3EB925A802D90088D690 /* 2021년 */ = {
 			isa = PBXGroup;
 			children = (
+				066C2843261759B900A67F1F /* 4월 */,
 				068EC20925EE353400484FBB /* 3월 */,
 				0666F8B925C95EFE0009A9C1 /* 2월 */,
 				06371D8125ADE27500FBD087 /* 1월 */,
@@ -709,6 +733,7 @@
 				069F95172590C12700B64999 /* P42861.swift in Sources */,
 				06ACFE63250607D200F2B74C /* P64065.swift in Sources */,
 				0666F82925B42B090009A9C1 /* P42579.swift in Sources */,
+				066C284A261839BA00A67F1F /* 2021카카오커머스상반기.swift in Sources */,
 				0617A6042582589A00A58034 /* P49189.swift in Sources */,
 				060D5DE824F81646002273DD /* P42578.swift in Sources */,
 				06831ACF24ACB1070067EAE6 /* 10870.swift in Sources */,
@@ -736,6 +761,7 @@
 				0666F82E25B815B40009A9C1 /* P49191.swift in Sources */,
 				0660F3C2250D04CD0059824A /* Extension+Array.swift in Sources */,
 				068EC20725EE352900484FBB /* P62048_2.swift in Sources */,
+				066C28172612F49800A67F1F /* P42628.swift in Sources */,
 				066C2800260B65D000A67F1F /* P72410.swift in Sources */,
 				06ACFE6125021C4A00F2B74C /* P12905.swift in Sources */,
 				06F37FF32589AD1400E8F999 /* SkillLevelTest2.swift in Sources */,
@@ -747,6 +773,7 @@
 				067FB75525F1018E0026B19C /* P72412.swift in Sources */,
 				06A720C324D722AE00ED31DC /* 2447.swift in Sources */,
 				065F2FDA249B4F13003A0156 /* 1021.swift in Sources */,
+				066C2845261759BF00A67F1F /* P17686_2.swift in Sources */,
 				066C28112611A0F400A67F1F /* MakePrioriryQueue.swift in Sources */,
 				0666F86025C017310009A9C1 /* P72411.swift in Sources */,
 				06A7D4BE25FF5EFE005348A4 /* P42583.swift in Sources */,
@@ -762,6 +789,7 @@
 				06F37FED258784C700E8F999 /* SkillLevelTest1.swift in Sources */,
 				060D5D9C24F0F21E002273DD /* P42883.swift in Sources */,
 				06A2B12A253AC9260013BCAD /* P12980.swift in Sources */,
+				066C281B26145F3500A67F1F /* P42842_2.swift in Sources */,
 				06A7D4BB25FF4C00005348A4 /* P49993.swift in Sources */,
 				069E3D062494A20000100D7C /* 2292.swift in Sources */,
 				060D5DEA24FAB23E002273DD /* Extension+GCD.swift in Sources */,
@@ -779,6 +807,7 @@
 				06FE86F024A091D700F770F4 /* 9020.swift in Sources */,
 				068EC20C25EE4A8000484FBB /* P42839_2.swift in Sources */,
 				06A7D4E926021045005348A4 /* P60058_2.swift in Sources */,
+				0609A0232618780300A81A2F /* 2021채널코퍼레이션.swift in Sources */,
 				0660F3C0250C93850059824A /* kakao2020하반기공채.swift in Sources */,
 				06A7D4E62601F583005348A4 /* P42746_2.swift in Sources */,
 				069E3D082495D98600100D7C /* 2869.swift in Sources */,
