@@ -39,9 +39,3 @@ let startTime = Date()
 defer {
     processTime(start: startTime)
 }
-
-
-// 모두 0으로 만들기
-private func solutionP76503(_ a:[Int], _ edges:[[Int]]) -> Int64 {
-    return -2
-}

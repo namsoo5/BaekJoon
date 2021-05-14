@@ -8,7 +8,7 @@
 
 import Foundation
 
-// 큰수 만들기
+// 가장 큰 수 
 private func solutionP42746_2(_ numbers:[Int]) -> String {
     
     let numbers = numbers.map { String($0) }
