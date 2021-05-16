@@ -39,6 +39,7 @@
 		0637E3F525E6730C008049F7 /* P42883_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0637E3F425E6730C008049F7 /* P42883_2.swift */; };
 		064397032559501C008F37FD /* P17686.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064397022559501C008F37FD /* P17686.swift */; };
 		06439714255AA1E1008F37FD /* MakeDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06439713255AA1E1008F37FD /* MakeDictionary.swift */; };
+		064D9192265012FA0064AB94 /* LeetCode20210515.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064D9191265012FA0064AB94 /* LeetCode20210515.swift */; };
 		0654370824A2145900210383 /* P64061.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0654370724A2145900210383 /* P64061.swift */; };
 		0654370C24A315B900210383 /* 10872.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0654370B24A315B900210383 /* 10872.swift */; };
 		0654371E24A3748700210383 /* P43165.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0654371D24A3748700210383 /* P43165.swift */; };
@@ -225,6 +226,7 @@
 		0637E3F425E6730C008049F7 /* P42883_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P42883_2.swift; sourceTree = "<group>"; };
 		064397022559501C008F37FD /* P17686.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P17686.swift; sourceTree = "<group>"; };
 		06439713255AA1E1008F37FD /* MakeDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeDictionary.swift; sourceTree = "<group>"; };
+		064D9191265012FA0064AB94 /* LeetCode20210515.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode20210515.swift; sourceTree = "<group>"; };
 		0654370724A2145900210383 /* P64061.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P64061.swift; sourceTree = "<group>"; };
 		0654370B24A315B900210383 /* 10872.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10872.swift; sourceTree = "<group>"; };
 		0654371D24A3748700210383 /* P43165.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P43165.swift; sourceTree = "<group>"; };
@@ -726,6 +728,7 @@
 				06F5158F264D041A008FB5BD /* P12979.swift */,
 				06F51594264D430F008FB5BD /* LeetCode20210513.swift */,
 				06F5159A264E7BE1008FB5BD /* LeetCode20210514.swift */,
+				064D9191265012FA0064AB94 /* LeetCode20210515.swift */,
 			);
 			name = "5월";
 			path = "5월";
@@ -791,6 +794,7 @@
 			files = (
 				06C2F2A32626DB4D0090DD70 /* 스노우비타.swift in Sources */,
 				06813181252ACCFB0081A99F /* P12949.swift in Sources */,
+				064D9192265012FA0064AB94 /* LeetCode20210515.swift in Sources */,
 				066C280E260F6BFD00A67F1F /* P72413.swift in Sources */,
 				068EC21825EFC4EA00484FBB /* P68936.swift in Sources */,
 				06C40E36259F57E30013F844 /* PICNIC.swift in Sources */,
