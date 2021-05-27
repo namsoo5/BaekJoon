@@ -49,6 +49,7 @@
 		064D91C2265D198E0064AB94 /* LeetCode20210524.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064D91C1265D198E0064AB94 /* LeetCode20210524.swift */; };
 		064D91C4265D204C0064AB94 /* LeetCode20210525.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064D91C3265D204C0064AB94 /* LeetCode20210525.swift */; };
 		064D91C6265E4F1F0064AB94 /* LeetCode20210526.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064D91C5265E4F1F0064AB94 /* LeetCode20210526.swift */; };
+		064D91C8265FDE160064AB94 /* LeetCode20210527.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064D91C7265FDE160064AB94 /* LeetCode20210527.swift */; };
 		0654370824A2145900210383 /* P64061.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0654370724A2145900210383 /* P64061.swift */; };
 		0654370C24A315B900210383 /* 10872.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0654370B24A315B900210383 /* 10872.swift */; };
 		0654371E24A3748700210383 /* P43165.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0654371D24A3748700210383 /* P43165.swift */; };
@@ -245,6 +246,7 @@
 		064D91C1265D198E0064AB94 /* LeetCode20210524.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode20210524.swift; sourceTree = "<group>"; };
 		064D91C3265D204C0064AB94 /* LeetCode20210525.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode20210525.swift; sourceTree = "<group>"; };
 		064D91C5265E4F1F0064AB94 /* LeetCode20210526.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode20210526.swift; sourceTree = "<group>"; };
+		064D91C7265FDE160064AB94 /* LeetCode20210527.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode20210527.swift; sourceTree = "<group>"; };
 		0654370724A2145900210383 /* P64061.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P64061.swift; sourceTree = "<group>"; };
 		0654370B24A315B900210383 /* 10872.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10872.swift; sourceTree = "<group>"; };
 		0654371D24A3748700210383 /* P43165.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P43165.swift; sourceTree = "<group>"; };
@@ -756,6 +758,7 @@
 				064D91C1265D198E0064AB94 /* LeetCode20210524.swift */,
 				064D91C3265D204C0064AB94 /* LeetCode20210525.swift */,
 				064D91C5265E4F1F0064AB94 /* LeetCode20210526.swift */,
+				064D91C7265FDE160064AB94 /* LeetCode20210527.swift */,
 			);
 			name = "5월";
 			path = "5월";
@@ -852,6 +855,7 @@
 				069E3CE32493124100100D7C /* 2839.swift in Sources */,
 				0654371E24A3748700210383 /* P43165.swift in Sources */,
 				069F95172590C12700B64999 /* P42861.swift in Sources */,
+				064D91C8265FDE160064AB94 /* LeetCode20210527.swift in Sources */,
 				06ACFE63250607D200F2B74C /* P64065.swift in Sources */,
 				0666F82925B42B090009A9C1 /* P42579.swift in Sources */,
 				06C2F3182636A15C0090DD70 /* P64064.swift in Sources */,
