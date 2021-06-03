@@ -50,6 +50,10 @@
 		064D91C4265D204C0064AB94 /* LeetCode20210525.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064D91C3265D204C0064AB94 /* LeetCode20210525.swift */; };
 		064D91C6265E4F1F0064AB94 /* LeetCode20210526.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064D91C5265E4F1F0064AB94 /* LeetCode20210526.swift */; };
 		064D91C8265FDE160064AB94 /* LeetCode20210527.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064D91C7265FDE160064AB94 /* LeetCode20210527.swift */; };
+		064D91CA2660D8D80064AB94 /* LeetCode20210528.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064D91C92660D8D80064AB94 /* LeetCode20210528.swift */; };
+		064D91EC2662536C0064AB94 /* LeetCode20210529.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064D91EB2662536C0064AB94 /* LeetCode20210529.swift */; };
+		064D91EE2663C1E00064AB94 /* LeetCdoe20210530.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064D91ED2663C1E00064AB94 /* LeetCdoe20210530.swift */; };
+		064D92102665FF9C0064AB94 /* LeetCode20210531.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064D920F2665FF9C0064AB94 /* LeetCode20210531.swift */; };
 		0654370824A2145900210383 /* P64061.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0654370724A2145900210383 /* P64061.swift */; };
 		0654370C24A315B900210383 /* 10872.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0654370B24A315B900210383 /* 10872.swift */; };
 		0654371E24A3748700210383 /* P43165.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0654371D24A3748700210383 /* P43165.swift */; };
@@ -97,6 +101,7 @@
 		068EC20C25EE4A8000484FBB /* P42839_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068EC20B25EE4A8000484FBB /* P42839_2.swift */; };
 		068EC21525EF9ABA00484FBB /* P67257_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068EC21425EF9ABA00484FBB /* P67257_2.swift */; };
 		068EC21825EFC4EA00484FBB /* P68936.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068EC21725EFC4EA00484FBB /* P68936.swift */; };
+		069735A42668ABDC00276673 /* LeetCode20210602.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069735A32668ABDC00276673 /* LeetCode20210602.swift */; };
 		069BB3B0256D3B2300BF5F9D /* P68646.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069BB3AF256D3B2300BF5F9D /* P68646.swift */; };
 		069BB3B3256D5C7F00BF5F9D /* MakeNormalSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069BB3B2256D5C7F00BF5F9D /* MakeNormalSort.swift */; };
 		069E3CE12491FEAA00100D7C /* 2941.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069E3CE02491FEAA00100D7C /* 2941.swift */; };
@@ -247,6 +252,10 @@
 		064D91C3265D204C0064AB94 /* LeetCode20210525.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode20210525.swift; sourceTree = "<group>"; };
 		064D91C5265E4F1F0064AB94 /* LeetCode20210526.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode20210526.swift; sourceTree = "<group>"; };
 		064D91C7265FDE160064AB94 /* LeetCode20210527.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode20210527.swift; sourceTree = "<group>"; };
+		064D91C92660D8D80064AB94 /* LeetCode20210528.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode20210528.swift; sourceTree = "<group>"; };
+		064D91EB2662536C0064AB94 /* LeetCode20210529.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode20210529.swift; sourceTree = "<group>"; };
+		064D91ED2663C1E00064AB94 /* LeetCdoe20210530.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCdoe20210530.swift; sourceTree = "<group>"; };
+		064D920F2665FF9C0064AB94 /* LeetCode20210531.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode20210531.swift; sourceTree = "<group>"; };
 		0654370724A2145900210383 /* P64061.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P64061.swift; sourceTree = "<group>"; };
 		0654370B24A315B900210383 /* 10872.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10872.swift; sourceTree = "<group>"; };
 		0654371D24A3748700210383 /* P43165.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P43165.swift; sourceTree = "<group>"; };
@@ -294,6 +303,7 @@
 		068EC20B25EE4A8000484FBB /* P42839_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P42839_2.swift; sourceTree = "<group>"; };
 		068EC21425EF9ABA00484FBB /* P67257_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P67257_2.swift; sourceTree = "<group>"; };
 		068EC21725EFC4EA00484FBB /* P68936.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P68936.swift; sourceTree = "<group>"; };
+		069735A32668ABDC00276673 /* LeetCode20210602.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode20210602.swift; sourceTree = "<group>"; };
 		069BB3AF256D3B2300BF5F9D /* P68646.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P68646.swift; sourceTree = "<group>"; };
 		069BB3B2256D5C7F00BF5F9D /* MakeNormalSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeNormalSort.swift; sourceTree = "<group>"; };
 		069E3CE02491FEAA00100D7C /* 2941.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2941.swift; sourceTree = "<group>"; };
@@ -584,9 +594,19 @@
 			path = "3월";
 			sourceTree = "<group>";
 		};
+		069735A22668ABC700276673 /* 6월 */ = {
+			isa = PBXGroup;
+			children = (
+				069735A32668ABDC00276673 /* LeetCode20210602.swift */,
+			);
+			name = "6월";
+			path = "6월";
+			sourceTree = "<group>";
+		};
 		069E3EB925A802D90088D690 /* 2021년 */ = {
 			isa = PBXGroup;
 			children = (
+				069735A22668ABC700276673 /* 6월 */,
 				06F5157D264045E0008FB5BD /* 5월 */,
 				066C2843261759B900A67F1F /* 4월 */,
 				068EC20925EE353400484FBB /* 3월 */,
@@ -759,6 +779,10 @@
 				064D91C3265D204C0064AB94 /* LeetCode20210525.swift */,
 				064D91C5265E4F1F0064AB94 /* LeetCode20210526.swift */,
 				064D91C7265FDE160064AB94 /* LeetCode20210527.swift */,
+				064D91C92660D8D80064AB94 /* LeetCode20210528.swift */,
+				064D91EB2662536C0064AB94 /* LeetCode20210529.swift */,
+				064D91ED2663C1E00064AB94 /* LeetCdoe20210530.swift */,
+				064D920F2665FF9C0064AB94 /* LeetCode20210531.swift */,
 			);
 			name = "5월";
 			path = "5월";
@@ -876,6 +900,7 @@
 				06E5110D2517516700B53299 /* Trie.swift in Sources */,
 				0666F8BB25C95F050009A9C1 /* P12914.swift in Sources */,
 				060D5DEC24FAB4FF002273DD /* P62048.swift in Sources */,
+				064D92102665FF9C0064AB94 /* LeetCode20210531.swift in Sources */,
 				06C2F2E7262EC1C60090DD70 /* P17681.swift in Sources */,
 				066C28142611A12600A67F1F /* P42627.swift in Sources */,
 				06C2F27926261FC70090DD70 /* P12921.swift in Sources */,
@@ -904,6 +929,7 @@
 				06BDE1A0254BEE3D00D732AF /* Extension+String.swift in Sources */,
 				06C2F26D2625D54A0090DD70 /* P17687_2.swift in Sources */,
 				060D5DBE24F22CA6002273DD /* socarCodeTest.swift in Sources */,
+				064D91CA2660D8D80064AB94 /* LeetCode20210528.swift in Sources */,
 				064D919426526CB50064AB94 /* LeetCode20210517.swift in Sources */,
 				0637E3BE25DFA108008049F7 /* P42587.swift in Sources */,
 				069E3D2324985AC200100D7C /* 1978.swift in Sources */,
@@ -922,6 +948,7 @@
 				0637E3C225DFBFD5008049F7 /* P42860_2.swift in Sources */,
 				0660F3C8250DE0990059824A /* Heap.swift in Sources */,
 				062A93672514A64700259794 /* P68645.swift in Sources */,
+				064D91EE2663C1E00064AB94 /* LeetCdoe20210530.swift in Sources */,
 				0666F8B625C6C42A0009A9C1 /* P60062.swift in Sources */,
 				06C40E31259F407B0013F844 /* SystemTimer.swift in Sources */,
 				06EEA1DA25A0AD820023BB1D /* BOARDCOVER.swift in Sources */,
@@ -988,10 +1015,12 @@
 				06C2F2EA262EDC820090DD70 /* P17682.swift in Sources */,
 				069E3EBB25A802E50088D690 /* P60061.swift in Sources */,
 				06705258254570B700ECAE1C /* P17679.swift in Sources */,
+				069735A42668ABDC00276673 /* LeetCode20210602.swift in Sources */,
 				06F515862641416A008FB5BD /* P42892.swift in Sources */,
 				06FE86EE249DADC600F770F4 /* ProgrammersHIndex.swift in Sources */,
 				06D33AFA2573F3AD0093FDED /* P60059.swift in Sources */,
 				06C2F2E4262DBF500090DD70 /* P76501.swift in Sources */,
+				064D91EC2662536C0064AB94 /* LeetCode20210529.swift in Sources */,
 				069BB3B0256D3B2300BF5F9D /* P68646.swift in Sources */,
 				065F2FD8249A331C003A0156 /* ProgrammersPrinter.swift in Sources */,
 				064397032559501C008F37FD /* P17686.swift in Sources */,
