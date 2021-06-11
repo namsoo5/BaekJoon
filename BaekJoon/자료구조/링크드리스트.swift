@@ -29,17 +29,13 @@ private func 링크드리스트구현() {
         }
         
         func append(node: Node<T>) {
-            if head == nil {
+            if tail == nil {
                 head = node
                 tail = node
                 return
             }
             
-            var temp = head
-            while temp?.next != nil {
-                temp = temp?.next
-            }
-            temp?.next = node
+            tail?.next = node
             tail = node
         }
         

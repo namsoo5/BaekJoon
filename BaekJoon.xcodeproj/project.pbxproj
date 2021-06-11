@@ -94,6 +94,8 @@
 		067BBB6D26709682004F5435 /* 이진탐색.swift in Sources */ = {isa = PBXBuildFile; fileRef = 067BBB6C26709682004F5435 /* 이진탐색.swift */; };
 		067BBB6F26709687004F5435 /* 링크드리스트.swift in Sources */ = {isa = PBXBuildFile; fileRef = 067BBB6E26709687004F5435 /* 링크드리스트.swift */; };
 		067BBB712670A6FA004F5435 /* LeetCode20210607.swift in Sources */ = {isa = PBXBuildFile; fileRef = 067BBB702670A6FA004F5435 /* LeetCode20210607.swift */; };
+		067BBB742673307C004F5435 /* 2021네웹면접코테.swift in Sources */ = {isa = PBXBuildFile; fileRef = 067BBB732673307C004F5435 /* 2021네웹면접코테.swift */; };
+		067BBB7626734476004F5435 /* LeetCode20210610.swift in Sources */ = {isa = PBXBuildFile; fileRef = 067BBB7526734476004F5435 /* LeetCode20210610.swift */; };
 		067FB75525F1018E0026B19C /* P72412.swift in Sources */ = {isa = PBXBuildFile; fileRef = 067FB75425F1018E0026B19C /* P72412.swift */; };
 		06813181252ACCFB0081A99F /* P12949.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06813180252ACCFB0081A99F /* P12949.swift */; };
 		06813184252AD7C20081A99F /* P12951.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06813183252AD7C20081A99F /* P12951.swift */; };
@@ -302,6 +304,8 @@
 		067BBB6C26709682004F5435 /* 이진탐색.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "이진탐색.swift"; sourceTree = "<group>"; };
 		067BBB6E26709687004F5435 /* 링크드리스트.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "링크드리스트.swift"; sourceTree = "<group>"; };
 		067BBB702670A6FA004F5435 /* LeetCode20210607.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode20210607.swift; sourceTree = "<group>"; };
+		067BBB732673307C004F5435 /* 2021네웹면접코테.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2021네웹면접코테.swift"; sourceTree = "<group>"; };
+		067BBB7526734476004F5435 /* LeetCode20210610.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode20210610.swift; sourceTree = "<group>"; };
 		067FB75425F1018E0026B19C /* P72412.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P72412.swift; sourceTree = "<group>"; };
 		06813180252ACCFB0081A99F /* P12949.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P12949.swift; sourceTree = "<group>"; };
 		06813183252AD7C20081A99F /* P12951.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P12951.swift; sourceTree = "<group>"; };
@@ -629,6 +633,7 @@
 				067BBB622668D1B0004F5435 /* LeetCode20210603.swift */,
 				067BBB6A266CE9CA004F5435 /* LeetCode20210606.swift */,
 				067BBB702670A6FA004F5435 /* LeetCode20210607.swift */,
+				067BBB7526734476004F5435 /* LeetCode20210610.swift */,
 			);
 			name = "6월";
 			path = "6월";
@@ -663,6 +668,7 @@
 				06F51577263CF909008FB5BD /* 2021라인 인턴십.swift */,
 				06F5158B26468D58008FB5BD /* 2021카카오인턴십.swift */,
 				067BBB66266B504D004F5435 /* 2021 라인 핀테크 인턴십.swift */,
+				067BBB732673307C004F5435 /* 2021네웹면접코테.swift */,
 			);
 			path = CodingTest;
 			sourceTree = "<group>";
@@ -912,6 +918,7 @@
 				06C2F3182636A15C0090DD70 /* P64064.swift in Sources */,
 				066C284A261839BA00A67F1F /* 2021카카오커머스상반기.swift in Sources */,
 				0617A6042582589A00A58034 /* P49189.swift in Sources */,
+				067BBB742673307C004F5435 /* 2021네웹면접코테.swift in Sources */,
 				06C2F27626261B7A0090DD70 /* P68935.swift in Sources */,
 				06F51590264D041B008FB5BD /* P12979.swift in Sources */,
 				060D5DE824F81646002273DD /* P42578.swift in Sources */,
@@ -1058,6 +1065,7 @@
 				065F2FD8249A331C003A0156 /* ProgrammersPrinter.swift in Sources */,
 				064397032559501C008F37FD /* P17686.swift in Sources */,
 				06F51595264D430F008FB5BD /* LeetCode20210513.swift in Sources */,
+				067BBB7626734476004F5435 /* LeetCode20210610.swift in Sources */,
 				06F51578263CF909008FB5BD /* 2021라인 인턴십.swift in Sources */,
 				06FE86CC249CD25E00F770F4 /* 4948.swift in Sources */,
 				06BCB70024E59EFD005D8B3D /* 15650.swift in Sources */,

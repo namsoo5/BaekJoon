@@ -39,4 +39,3 @@ let startTime = Date()
 defer {
     processTime(start: startTime)
 }
-
