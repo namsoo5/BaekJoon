@@ -47,10 +47,8 @@ private func sol1() {
 }
 
 
-let arr: [Int] = [1,2,3,4,5,6,7,8,9]
-
 func search(x: Int) -> Int {
-    
+    let arr: [Int] = [1,2,3,4,5,6,7,8,9]
     var start = 0
     var end = arr.count - 1
     
@@ -71,6 +69,7 @@ func search(x: Int) -> Int {
 }
 
 func search2(x: Int, start: Int, end: Int) -> Int {
+    let arr: [Int] = [1,2,3,4,5,6,7,8,9]
     if start > end {
         return -1
     }
