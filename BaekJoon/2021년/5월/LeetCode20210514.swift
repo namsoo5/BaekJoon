@@ -9,7 +9,7 @@
 import Foundation
 
 // 17:00 - 18:35
-func solution_Flatten() {
+private func solution_Flatten() {
     class TreeNode {
         var val: Int
         var left: TreeNode?
